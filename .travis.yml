@@ -14,9 +14,9 @@ matrix:
 addons:
   apt:
     sources:
-      - sourceline: 'deb http://packages.couchbase.com/releases/couchbase-server/community/deb/  trusty trusty/main'
-      - sourceline: 'deb http://packages.couchbase.com/ubuntu trusty trusty/main'
-        key_url: 'http://packages.couchbase.com/ubuntu/couchbase.key'
+      - sourceline: 'deb https://packages.couchbase.com/releases/couchbase-server/community/deb/  trusty trusty/main'
+      - sourceline: 'deb https://packages.couchbase.com/ubuntu trusty trusty/main'
+        key_url: 'https://packages.couchbase.com/ubuntu/couchbase.key'
     packages:
       - couchbase-server-community
 

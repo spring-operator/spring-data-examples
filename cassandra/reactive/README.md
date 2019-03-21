@@ -4,7 +4,7 @@ This project contains samples of reactive data access features with Spring Data 
 
 ## Reactive Template API usage with `ReactiveCassandraTemplate`
 
-The main reactive Template API class is `ReactiveCassandraTemplate`, ideally used through its interface `ReactiveCassandraOperations`. It defines a basic set of reactive data access operations using [Project Reactor](http://projectreactor.io) `Mono` and `Flux` reactive types.
+The main reactive Template API class is `ReactiveCassandraTemplate`, ideally used through its interface `ReactiveCassandraOperations`. It defines a basic set of reactive data access operations using [Project Reactor](https://projectreactor.io) `Mono` and `Flux` reactive types.
 
 ```java
 template.insert(Flux.just(new Person("Walter", "White", 50),

@@ -77,7 +77,7 @@ public class CrossOriginIntegrationTests {
 	@Test
 	public void rejectCrossOriginRequest() throws Exception {
 
-		String origin = "http://foo.bar";
+		String origin = "https://foo.bar";
 		URI uri = URI.create("/customers");
 
 		mvc.perform(get(uri).header(ORIGIN, origin)) //

@@ -4,7 +4,7 @@ This project contains examples for Spring Data specific repository abstraction o
 
 ## Repository Suport ##
 
-Redis Repository support allows to convert, store, retrieve and index entities within Redis native data structures. To do, besides the `HASH` containing the actual properties several [Secondary Index](http://redis.io/topics/indexes) structures are set up and maintained.
+Redis Repository support allows to convert, store, retrieve and index entities within Redis native data structures. To do, besides the `HASH` containing the actual properties several [Secondary Index](https://redis.io/topics/indexes) structures are set up and maintained.
 
 ```java
 @RedisHash("persons")
@@ -22,7 +22,7 @@ class Person {
 }
 ```
 
-The above entity would for example then be stored in a Redis [HASH](http://redis.io/topics/data-types#hashes) with key `persons:9b0ed8ee-14be-46ec-b5fa-79570aadb91d`.
+The above entity would for example then be stored in a Redis [HASH](https://redis.io/topics/data-types#hashes) with key `persons:9b0ed8ee-14be-46ec-b5fa-79570aadb91d`.
 
 ```properties
 _class=example.springdata.redis.domain.Person                <1>

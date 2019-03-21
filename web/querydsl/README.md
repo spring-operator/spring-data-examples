@@ -4,7 +4,7 @@ This example shows some of the Spring Data Querydsl integration features with Sp
 
 ## Quickstart
 
-1. Install MongoDB (http://www.mongodb.org/downloads, unzip, run `mkdir data`, run `bin/mongod --dbpath=data`)
+1. Install MongoDB (https://www.mongodb.org/downloads, unzip, run `mkdir data`, run `bin/mongod --dbpath=data`)
 2. Build and run the app (`mvn spring-boot:run`)
 4. Access app directly via its UI (`http://localhost:8080/`).
 
@@ -45,7 +45,7 @@ public interface UserRepository
 }
 ```
 
-The repository extends `QuerydslBinderCustomizer` which exposes a `QuerydslBindings` instance for customization. It allows for property based (by using Querydsl's meta-model types) and type based customizations of the value binding. The example here defines a `String`-properties to be bound using the `containsIgnoreCase(…)` operator. For further information checkout the JavaDoc of [QuerydslBindings](http://docs.spring.io/spring-data/commons/docs/1.11.0.RC1/api/org/springframework/data/querydsl/binding/QuerydslBindings.html).
+The repository extends `QuerydslBinderCustomizer` which exposes a `QuerydslBindings` instance for customization. It allows for property based (by using Querydsl's meta-model types) and type based customizations of the value binding. The example here defines a `String`-properties to be bound using the `containsIgnoreCase(…)` operator. For further information checkout the JavaDoc of [QuerydslBindings](https://docs.spring.io/spring-data/commons/docs/1.11.0.RC1/api/org/springframework/data/querydsl/binding/QuerydslBindings.html).
 
 ## Technologies used
 

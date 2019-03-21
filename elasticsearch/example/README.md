@@ -2,8 +2,8 @@
 
 Requirements:
 
- * [Maven](http://maven.apache.org/download.cgi) - required.
- * [Elasticsearch](http://www.elasticsearch.org/overview/elkdownloads) - optional.
+ * [Maven](https://maven.apache.org/download.cgi) - required.
+ * [Elasticsearch](https://www.elastic.co/downloads) - optional.
 
 
 To use local elasticsearch cluster:

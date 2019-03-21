@@ -10,7 +10,7 @@ together with blocking Spring Data MongoDB data access will open multiple connec
 
 ## Reactive Template API usage with `ReactiveMongoTemplate`
 
-The main reactive Template API class is `ReactiveMongoTemplate`, ideally used through its interface `ReactiveMongoOperations`. It defines a basic set of reactive data access operations using [Project Reactor](http://projectreactor.io) `Mono` and `Flux` reactive types.
+The main reactive Template API class is `ReactiveMongoTemplate`, ideally used through its interface `ReactiveMongoOperations`. It defines a basic set of reactive data access operations using [Project Reactor](https://projectreactor.io) `Mono` and `Flux` reactive types.
 
 ```java
 template.insertAll(Arrays.asList(new Person("Walter", "White", 50),

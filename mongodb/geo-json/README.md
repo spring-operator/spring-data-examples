@@ -5,7 +5,7 @@ This project contains samples of [GeoJSON](http://geojson.org) specific features
 ## Support for GeoJSON types in domain classes
 
 Using [GeoJSON](http://geojson.org) types in domain classes is straight forward. The `org.springframework.data.mongodb.core.geo` package contains types like `GeoJsonPoint` or `GeoJsonPolygon` which are extensions to the existing `org.springframework.data.geo` types.
-Find more information in the [MongoDB manual on GeoJSON support](http://docs.mongodb.org/manual/core/2dsphere/#geospatial-indexes-store-geojson) to learn about requirements and restrictions.
+Find more information in the [MongoDB manual on GeoJSON support](https://docs.mongodb.org/manual/core/2dsphere/#geospatial-indexes-store-geojson) to learn about requirements and restrictions.
 
 ```java
 public class Store {

@@ -39,11 +39,11 @@
 	  "allowAnonLogging": true,
 	  "contentVersion": "0.2.0.0.preview.1",
 	  "imageLinks": {
-		"smallThumbnail": "http://books.google.com/books/content?id=oMVIzzKjJCcC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
-		"thumbnail": "http://books.google.com/books/content?id=oMVIzzKjJCcC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+		"smallThumbnail": "https://books.google.com/books/content?id=oMVIzzKjJCcC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+		"thumbnail": "https://books.google.com/books/content?id=oMVIzzKjJCcC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
 	  },
 	  "language": "en",
-	  "previewLink": "http://books.google.de/books?id=oMVIzzKjJCcC&pg=PA20&dq=intitle:spring+framework&hl=&cd=1&source=gbs_api",
+	  "previewLink": "https://books.google.de/books?id=oMVIzzKjJCcC&pg=PA20&dq=intitle:spring+framework&hl=&cd=1&source=gbs_api",
 	  "infoLink": "https://play.google.com/store/books/details?id=oMVIzzKjJCcC&source=gbs_api",
 	  "canonicalVolumeLink": "https://market.android.com/details?id=book-oMVIzzKjJCcC"
 	},
@@ -114,11 +114,11 @@
 	  "allowAnonLogging": false,
 	  "contentVersion": "1.1.1.0.preview.3",
 	  "imageLinks": {
-		"smallThumbnail": "http://books.google.com/books/content?id=14RYDQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
-		"thumbnail": "http://books.google.com/books/content?id=14RYDQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+		"smallThumbnail": "https://books.google.com/books/content?id=14RYDQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+		"thumbnail": "https://books.google.com/books/content?id=14RYDQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
 	  },
 	  "language": "en",
-	  "previewLink": "http://books.google.de/books?id=14RYDQAAQBAJ&pg=PT10&dq=intitle:spring+framework&hl=&cd=2&source=gbs_api",
+	  "previewLink": "https://books.google.de/books?id=14RYDQAAQBAJ&pg=PT10&dq=intitle:spring+framework&hl=&cd=2&source=gbs_api",
 	  "infoLink": "https://play.google.com/store/books/details?id=14RYDQAAQBAJ&source=gbs_api",
 	  "canonicalVolumeLink": "https://market.android.com/details?id=book-14RYDQAAQBAJ"
 	},
@@ -189,11 +189,11 @@
 	  "allowAnonLogging": true,
 	  "contentVersion": "1.5.4.0.preview.3",
 	  "imageLinks": {
-		"smallThumbnail": "http://books.google.com/books/content?id=TDP8AwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
-		"thumbnail": "http://books.google.com/books/content?id=TDP8AwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+		"smallThumbnail": "https://books.google.com/books/content?id=TDP8AwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+		"thumbnail": "https://books.google.com/books/content?id=TDP8AwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
 	  },
 	  "language": "en",
-	  "previewLink": "http://books.google.de/books?id=TDP8AwAAQBAJ&pg=PP5&dq=intitle:spring+framework&hl=&cd=3&source=gbs_api",
+	  "previewLink": "https://books.google.de/books?id=TDP8AwAAQBAJ&pg=PP5&dq=intitle:spring+framework&hl=&cd=3&source=gbs_api",
 	  "infoLink": "https://play.google.com/store/books/details?id=TDP8AwAAQBAJ&source=gbs_api",
 	  "canonicalVolumeLink": "https://market.android.com/details?id=book-TDP8AwAAQBAJ"
 	},
@@ -269,13 +269,13 @@
 	  "allowAnonLogging": false,
 	  "contentVersion": "2.2.0.0.preview.0",
 	  "imageLinks": {
-		"smallThumbnail": "http://books.google.com/books/content?id=H2KnSirKJDYC&printsec=frontcover&img=1&zoom=5&source=gbs_api",
-		"thumbnail": "http://books.google.com/books/content?id=H2KnSirKJDYC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+		"smallThumbnail": "https://books.google.com/books/content?id=H2KnSirKJDYC&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+		"thumbnail": "https://books.google.com/books/content?id=H2KnSirKJDYC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
 	  },
 	  "language": "en",
-	  "previewLink": "http://books.google.de/books?id=H2KnSirKJDYC&dq=intitle:spring+framework&hl=&cd=4&source=gbs_api",
-	  "infoLink": "http://books.google.de/books?id=H2KnSirKJDYC&dq=intitle:spring+framework&hl=&source=gbs_api",
-	  "canonicalVolumeLink": "http://books.google.de/books/about/Beginning_Spring_Framework_2.html?hl=&id=H2KnSirKJDYC"
+	  "previewLink": "https://books.google.de/books?id=H2KnSirKJDYC&dq=intitle:spring+framework&hl=&cd=4&source=gbs_api",
+	  "infoLink": "https://books.google.de/books?id=H2KnSirKJDYC&dq=intitle:spring+framework&hl=&source=gbs_api",
+	  "canonicalVolumeLink": "https://books.google.de/books/about/Beginning_Spring_Framework_2.html?hl=&id=H2KnSirKJDYC"
 	},
 	"saleInfo": {
 	  "country": "DE",
@@ -323,13 +323,13 @@
 	  "allowAnonLogging": false,
 	  "contentVersion": "preview-1.0.0",
 	  "imageLinks": {
-		"smallThumbnail": "http://books.google.com/books/content?id=_jeUmAEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
-		"thumbnail": "http://books.google.com/books/content?id=_jeUmAEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+		"smallThumbnail": "https://books.google.com/books/content?id=_jeUmAEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+		"thumbnail": "https://books.google.com/books/content?id=_jeUmAEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
 	  },
 	  "language": "en",
-	  "previewLink": "http://books.google.de/books?id=_jeUmAEACAAJ&dq=intitle:spring+framework&hl=&cd=5&source=gbs_api",
-	  "infoLink": "http://books.google.de/books?id=_jeUmAEACAAJ&dq=intitle:spring+framework&hl=&source=gbs_api",
-	  "canonicalVolumeLink": "http://books.google.de/books/about/Spring_Framework.html?hl=&id=_jeUmAEACAAJ"
+	  "previewLink": "https://books.google.de/books?id=_jeUmAEACAAJ&dq=intitle:spring+framework&hl=&cd=5&source=gbs_api",
+	  "infoLink": "https://books.google.de/books?id=_jeUmAEACAAJ&dq=intitle:spring+framework&hl=&source=gbs_api",
+	  "canonicalVolumeLink": "https://books.google.de/books/about/Spring_Framework.html?hl=&id=_jeUmAEACAAJ"
 	},
 	"saleInfo": {
 	  "country": "DE",
@@ -375,13 +375,13 @@
 	  "allowAnonLogging": false,
 	  "contentVersion": "preview-1.0.0",
 	  "imageLinks": {
-		"smallThumbnail": "http://books.google.com/books/content?id=DPegZwEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
-		"thumbnail": "http://books.google.com/books/content?id=DPegZwEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+		"smallThumbnail": "https://books.google.com/books/content?id=DPegZwEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+		"thumbnail": "https://books.google.com/books/content?id=DPegZwEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
 	  },
 	  "language": "en",
-	  "previewLink": "http://books.google.de/books?id=DPegZwEACAAJ&dq=intitle:spring+framework&hl=&cd=6&source=gbs_api",
-	  "infoLink": "http://books.google.de/books?id=DPegZwEACAAJ&dq=intitle:spring+framework&hl=&source=gbs_api",
-	  "canonicalVolumeLink": "http://books.google.de/books/about/Spring_Framework.html?hl=&id=DPegZwEACAAJ"
+	  "previewLink": "https://books.google.de/books?id=DPegZwEACAAJ&dq=intitle:spring+framework&hl=&cd=6&source=gbs_api",
+	  "infoLink": "https://books.google.de/books?id=DPegZwEACAAJ&dq=intitle:spring+framework&hl=&source=gbs_api",
+	  "canonicalVolumeLink": "https://books.google.de/books/about/Spring_Framework.html?hl=&id=DPegZwEACAAJ"
 	},
 	"saleInfo": {
 	  "country": "DE",
@@ -422,9 +422,9 @@
 	  "allowAnonLogging": false,
 	  "contentVersion": "preview-1.0.0",
 	  "language": "en",
-	  "previewLink": "http://books.google.de/books?id=tUnooAEACAAJ&dq=intitle:spring+framework&hl=&cd=7&source=gbs_api",
-	  "infoLink": "http://books.google.de/books?id=tUnooAEACAAJ&dq=intitle:spring+framework&hl=&source=gbs_api",
-	  "canonicalVolumeLink": "http://books.google.de/books/about/Beginning_Spring_Framework_Coding_Skills.html?hl=&id=tUnooAEACAAJ"
+	  "previewLink": "https://books.google.de/books?id=tUnooAEACAAJ&dq=intitle:spring+framework&hl=&cd=7&source=gbs_api",
+	  "infoLink": "https://books.google.de/books?id=tUnooAEACAAJ&dq=intitle:spring+framework&hl=&source=gbs_api",
+	  "canonicalVolumeLink": "https://books.google.de/books/about/Beginning_Spring_Framework_Coding_Skills.html?hl=&id=tUnooAEACAAJ"
 	},
 	"saleInfo": {
 	  "country": "DE",
@@ -469,13 +469,13 @@
 	  "allowAnonLogging": false,
 	  "contentVersion": "preview-1.0.0",
 	  "imageLinks": {
-		"smallThumbnail": "http://books.google.com/books/content?id=06kRBwAAQBAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
-		"thumbnail": "http://books.google.com/books/content?id=06kRBwAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+		"smallThumbnail": "https://books.google.com/books/content?id=06kRBwAAQBAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+		"thumbnail": "https://books.google.com/books/content?id=06kRBwAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
 	  },
 	  "language": "en",
-	  "previewLink": "http://books.google.de/books?id=06kRBwAAQBAJ&dq=intitle:spring+framework&hl=&cd=8&source=gbs_api",
-	  "infoLink": "http://books.google.de/books?id=06kRBwAAQBAJ&dq=intitle:spring+framework&hl=&source=gbs_api",
-	  "canonicalVolumeLink": "http://books.google.de/books/about/Spring_Framework_High_impact_Strategies.html?hl=&id=06kRBwAAQBAJ"
+	  "previewLink": "https://books.google.de/books?id=06kRBwAAQBAJ&dq=intitle:spring+framework&hl=&cd=8&source=gbs_api",
+	  "infoLink": "https://books.google.de/books?id=06kRBwAAQBAJ&dq=intitle:spring+framework&hl=&source=gbs_api",
+	  "canonicalVolumeLink": "https://books.google.de/books/about/Spring_Framework_High_impact_Strategies.html?hl=&id=06kRBwAAQBAJ"
 	},
 	"saleInfo": {
 	  "country": "DE",
@@ -525,13 +525,13 @@
 	  "allowAnonLogging": false,
 	  "contentVersion": "0.0.1.0.preview.1",
 	  "imageLinks": {
-		"smallThumbnail": "http://books.google.com/books/content?id=YdzfO7KEN5gC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
-		"thumbnail": "http://books.google.com/books/content?id=YdzfO7KEN5gC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+		"smallThumbnail": "https://books.google.com/books/content?id=YdzfO7KEN5gC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+		"thumbnail": "https://books.google.com/books/content?id=YdzfO7KEN5gC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
 	  },
 	  "language": "de",
-	  "previewLink": "http://books.google.de/books?id=YdzfO7KEN5gC&pg=PA19&dq=intitle:spring+framework&hl=&cd=9&source=gbs_api",
-	  "infoLink": "http://books.google.de/books?id=YdzfO7KEN5gC&dq=intitle:spring+framework&hl=&source=gbs_api",
-	  "canonicalVolumeLink": "http://books.google.de/books/about/Spring_2_5.html?hl=&id=YdzfO7KEN5gC"
+	  "previewLink": "https://books.google.de/books?id=YdzfO7KEN5gC&pg=PA19&dq=intitle:spring+framework&hl=&cd=9&source=gbs_api",
+	  "infoLink": "https://books.google.de/books?id=YdzfO7KEN5gC&dq=intitle:spring+framework&hl=&source=gbs_api",
+	  "canonicalVolumeLink": "https://books.google.de/books/about/Spring_2_5.html?hl=&id=YdzfO7KEN5gC"
 	},
 	"saleInfo": {
 	  "country": "DE",
@@ -576,9 +576,9 @@
 	  "allowAnonLogging": false,
 	  "contentVersion": "preview-1.0.0",
 	  "language": "en",
-	  "previewLink": "http://books.google.de/books?id=YcO5nAEACAAJ&dq=intitle:spring+framework&hl=&cd=10&source=gbs_api",
-	  "infoLink": "http://books.google.de/books?id=YcO5nAEACAAJ&dq=intitle:spring+framework&hl=&source=gbs_api",
-	  "canonicalVolumeLink": "http://books.google.de/books/about/Learn_Spring_Framework.html?hl=&id=YcO5nAEACAAJ"
+	  "previewLink": "https://books.google.de/books?id=YcO5nAEACAAJ&dq=intitle:spring+framework&hl=&cd=10&source=gbs_api",
+	  "infoLink": "https://books.google.de/books?id=YcO5nAEACAAJ&dq=intitle:spring+framework&hl=&source=gbs_api",
+	  "canonicalVolumeLink": "https://books.google.de/books/about/Learn_Spring_Framework.html?hl=&id=YcO5nAEACAAJ"
 	},
 	"saleInfo": {
 	  "country": "DE",
@@ -624,11 +624,11 @@
 	  "allowAnonLogging": false,
 	  "contentVersion": "0.1.1.0.preview.3",
 	  "imageLinks": {
-		"smallThumbnail": "http://books.google.com/books/content?id=1sF-DAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
-		"thumbnail": "http://books.google.com/books/content?id=1sF-DAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+		"smallThumbnail": "https://books.google.com/books/content?id=1sF-DAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+		"thumbnail": "https://books.google.com/books/content?id=1sF-DAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
 	  },
 	  "language": "de",
-	  "previewLink": "http://books.google.de/books?id=1sF-DAAAQBAJ&pg=PT15&dq=intitle:spring+framework&hl=&cd=11&source=gbs_api",
+	  "previewLink": "https://books.google.de/books?id=1sF-DAAAQBAJ&pg=PT15&dq=intitle:spring+framework&hl=&cd=11&source=gbs_api",
 	  "infoLink": "https://play.google.com/store/books/details?id=1sF-DAAAQBAJ&source=gbs_api",
 	  "canonicalVolumeLink": "https://market.android.com/details?id=book-1sF-DAAAQBAJ"
 	},
@@ -703,11 +703,11 @@
 	  "allowAnonLogging": false,
 	  "contentVersion": "0.1.2.0.preview.3",
 	  "imageLinks": {
-		"smallThumbnail": "http://books.google.com/books/content?id=POF9DAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
-		"thumbnail": "http://books.google.com/books/content?id=POF9DAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+		"smallThumbnail": "https://books.google.com/books/content?id=POF9DAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+		"thumbnail": "https://books.google.com/books/content?id=POF9DAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
 	  },
 	  "language": "de",
-	  "previewLink": "http://books.google.de/books?id=POF9DAAAQBAJ&printsec=frontcover&dq=intitle:spring+framework&hl=&cd=12&source=gbs_api",
+	  "previewLink": "https://books.google.de/books?id=POF9DAAAQBAJ&printsec=frontcover&dq=intitle:spring+framework&hl=&cd=12&source=gbs_api",
 	  "infoLink": "https://play.google.com/store/books/details?id=POF9DAAAQBAJ&source=gbs_api",
 	  "canonicalVolumeLink": "https://market.android.com/details?id=book-POF9DAAAQBAJ"
 	},
@@ -778,13 +778,13 @@
 	  "allowAnonLogging": false,
 	  "contentVersion": "preview-1.0.0",
 	  "imageLinks": {
-		"smallThumbnail": "http://books.google.com/books/content?id=sr-SMAEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
-		"thumbnail": "http://books.google.com/books/content?id=sr-SMAEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+		"smallThumbnail": "https://books.google.com/books/content?id=sr-SMAEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+		"thumbnail": "https://books.google.com/books/content?id=sr-SMAEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
 	  },
 	  "language": "en",
-	  "previewLink": "http://books.google.de/books?id=sr-SMAEACAAJ&dq=intitle:spring+framework&hl=&cd=13&source=gbs_api",
-	  "infoLink": "http://books.google.de/books?id=sr-SMAEACAAJ&dq=intitle:spring+framework&hl=&source=gbs_api",
-	  "canonicalVolumeLink": "http://books.google.de/books/about/Developing_Enterprise_Java_Applications.html?hl=&id=sr-SMAEACAAJ"
+	  "previewLink": "https://books.google.de/books?id=sr-SMAEACAAJ&dq=intitle:spring+framework&hl=&cd=13&source=gbs_api",
+	  "infoLink": "https://books.google.de/books?id=sr-SMAEACAAJ&dq=intitle:spring+framework&hl=&source=gbs_api",
+	  "canonicalVolumeLink": "https://books.google.de/books/about/Developing_Enterprise_Java_Applications.html?hl=&id=sr-SMAEACAAJ"
 	},
 	"saleInfo": {
 	  "country": "DE",
@@ -832,11 +832,11 @@
 	  "allowAnonLogging": true,
 	  "contentVersion": "2.5.4.0.preview.3",
 	  "imageLinks": {
-		"smallThumbnail": "http://books.google.com/books/content?id=iXO1yZwPG-YC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
-		"thumbnail": "http://books.google.com/books/content?id=iXO1yZwPG-YC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+		"smallThumbnail": "https://books.google.com/books/content?id=iXO1yZwPG-YC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+		"thumbnail": "https://books.google.com/books/content?id=iXO1yZwPG-YC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
 	  },
 	  "language": "en",
-	  "previewLink": "http://books.google.de/books?id=iXO1yZwPG-YC&printsec=frontcover&dq=intitle:spring+framework&hl=&cd=14&source=gbs_api",
+	  "previewLink": "https://books.google.de/books?id=iXO1yZwPG-YC&printsec=frontcover&dq=intitle:spring+framework&hl=&cd=14&source=gbs_api",
 	  "infoLink": "https://play.google.com/store/books/details?id=iXO1yZwPG-YC&source=gbs_api",
 	  "canonicalVolumeLink": "https://market.android.com/details?id=book-iXO1yZwPG-YC"
 	},
@@ -909,11 +909,11 @@
 	  "allowAnonLogging": false,
 	  "contentVersion": "2.3.4.0.preview.3",
 	  "imageLinks": {
-		"smallThumbnail": "http://books.google.com/books/content?id=w6WYeZrQAQUC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
-		"thumbnail": "http://books.google.com/books/content?id=w6WYeZrQAQUC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+		"smallThumbnail": "https://books.google.com/books/content?id=w6WYeZrQAQUC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+		"thumbnail": "https://books.google.com/books/content?id=w6WYeZrQAQUC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
 	  },
 	  "language": "en",
-	  "previewLink": "http://books.google.de/books?id=w6WYeZrQAQUC&pg=PA22&dq=intitle:spring+framework&hl=&cd=15&source=gbs_api",
+	  "previewLink": "https://books.google.de/books?id=w6WYeZrQAQUC&pg=PA22&dq=intitle:spring+framework&hl=&cd=15&source=gbs_api",
 	  "infoLink": "https://play.google.com/store/books/details?id=w6WYeZrQAQUC&source=gbs_api",
 	  "canonicalVolumeLink": "https://market.android.com/details?id=book-w6WYeZrQAQUC"
 	},
@@ -985,13 +985,13 @@
 	  "allowAnonLogging": true,
 	  "contentVersion": "2.7.6.0.preview.3",
 	  "imageLinks": {
-		"smallThumbnail": "http://books.google.com/books/content?id=qRQ-ZWYY5ygC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
-		"thumbnail": "http://books.google.com/books/content?id=qRQ-ZWYY5ygC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+		"smallThumbnail": "https://books.google.com/books/content?id=qRQ-ZWYY5ygC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+		"thumbnail": "https://books.google.com/books/content?id=qRQ-ZWYY5ygC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
 	  },
 	  "language": "en",
-	  "previewLink": "http://books.google.de/books?id=qRQ-ZWYY5ygC&pg=PA128&dq=intitle:spring+framework&hl=&cd=16&source=gbs_api",
-	  "infoLink": "http://books.google.de/books?id=qRQ-ZWYY5ygC&dq=intitle:spring+framework&hl=&source=gbs_api",
-	  "canonicalVolumeLink": "http://books.google.de/books/about/Agile_Java_Development_with_Spring_Hiber.html?hl=&id=qRQ-ZWYY5ygC"
+	  "previewLink": "https://books.google.de/books?id=qRQ-ZWYY5ygC&pg=PA128&dq=intitle:spring+framework&hl=&cd=16&source=gbs_api",
+	  "infoLink": "https://books.google.de/books?id=qRQ-ZWYY5ygC&dq=intitle:spring+framework&hl=&source=gbs_api",
+	  "canonicalVolumeLink": "https://books.google.de/books/about/Agile_Java_Development_with_Spring_Hiber.html?hl=&id=qRQ-ZWYY5ygC"
 	},
 	"saleInfo": {
 	  "country": "DE",
@@ -1038,13 +1038,13 @@
 	  "allowAnonLogging": false,
 	  "contentVersion": "0.0.1.0.preview.1",
 	  "imageLinks": {
-		"smallThumbnail": "http://books.google.com/books/content?id=NfNbbhBRcOkC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
-		"thumbnail": "http://books.google.com/books/content?id=NfNbbhBRcOkC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+		"smallThumbnail": "https://books.google.com/books/content?id=NfNbbhBRcOkC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+		"thumbnail": "https://books.google.com/books/content?id=NfNbbhBRcOkC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
 	  },
 	  "language": "en",
-	  "previewLink": "http://books.google.de/books?id=NfNbbhBRcOkC&pg=PA1&dq=intitle:spring+framework&hl=&cd=17&source=gbs_api",
-	  "infoLink": "http://books.google.de/books?id=NfNbbhBRcOkC&dq=intitle:spring+framework&hl=&source=gbs_api",
-	  "canonicalVolumeLink": "http://books.google.de/books/about/Spring_And_Hibernate.html?hl=&id=NfNbbhBRcOkC"
+	  "previewLink": "https://books.google.de/books?id=NfNbbhBRcOkC&pg=PA1&dq=intitle:spring+framework&hl=&cd=17&source=gbs_api",
+	  "infoLink": "https://books.google.de/books?id=NfNbbhBRcOkC&dq=intitle:spring+framework&hl=&source=gbs_api",
+	  "canonicalVolumeLink": "https://books.google.de/books/about/Spring_And_Hibernate.html?hl=&id=NfNbbhBRcOkC"
 	},
 	"saleInfo": {
 	  "country": "DE",
@@ -1094,11 +1094,11 @@
 	  "allowAnonLogging": true,
 	  "contentVersion": "1.3.1.0.preview.1",
 	  "imageLinks": {
-		"smallThumbnail": "http://books.google.com/books/content?id=L7d0LNpSrRwC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
-		"thumbnail": "http://books.google.com/books/content?id=L7d0LNpSrRwC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+		"smallThumbnail": "https://books.google.com/books/content?id=L7d0LNpSrRwC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+		"thumbnail": "https://books.google.com/books/content?id=L7d0LNpSrRwC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
 	  },
 	  "language": "en",
-	  "previewLink": "http://books.google.de/books?id=L7d0LNpSrRwC&pg=PA7&dq=intitle:spring+framework&hl=&cd=18&source=gbs_api",
+	  "previewLink": "https://books.google.de/books?id=L7d0LNpSrRwC&pg=PA7&dq=intitle:spring+framework&hl=&cd=18&source=gbs_api",
 	  "infoLink": "https://play.google.com/store/books/details?id=L7d0LNpSrRwC&source=gbs_api",
 	  "canonicalVolumeLink": "https://market.android.com/details?id=book-L7d0LNpSrRwC"
 	},
@@ -1169,11 +1169,11 @@
 	  "allowAnonLogging": true,
 	  "contentVersion": "1.2.1.0.preview.1",
 	  "imageLinks": {
-		"smallThumbnail": "http://books.google.com/books/content?id=V35pqiCnD4YC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
-		"thumbnail": "http://books.google.com/books/content?id=V35pqiCnD4YC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+		"smallThumbnail": "https://books.google.com/books/content?id=V35pqiCnD4YC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+		"thumbnail": "https://books.google.com/books/content?id=V35pqiCnD4YC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
 	  },
 	  "language": "en",
-	  "previewLink": "http://books.google.de/books?id=V35pqiCnD4YC&pg=PA21&dq=intitle:spring+framework&hl=&cd=19&source=gbs_api",
+	  "previewLink": "https://books.google.de/books?id=V35pqiCnD4YC&pg=PA21&dq=intitle:spring+framework&hl=&cd=19&source=gbs_api",
 	  "infoLink": "https://play.google.com/store/books/details?id=V35pqiCnD4YC&source=gbs_api",
 	  "canonicalVolumeLink": "https://market.android.com/details?id=book-V35pqiCnD4YC"
 	},
@@ -1249,11 +1249,11 @@
 	  "allowAnonLogging": true,
 	  "contentVersion": "0.5.4.0.preview.3",
 	  "imageLinks": {
-		"smallThumbnail": "http://books.google.com/books/content?id=NL08BQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
-		"thumbnail": "http://books.google.com/books/content?id=NL08BQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+		"smallThumbnail": "https://books.google.com/books/content?id=NL08BQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+		"thumbnail": "https://books.google.com/books/content?id=NL08BQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
 	  },
 	  "language": "en",
-	  "previewLink": "http://books.google.de/books?id=NL08BQAAQBAJ&pg=PA723&dq=intitle:spring+framework&hl=&cd=20&source=gbs_api",
+	  "previewLink": "https://books.google.de/books?id=NL08BQAAQBAJ&pg=PA723&dq=intitle:spring+framework&hl=&cd=20&source=gbs_api",
 	  "infoLink": "https://play.google.com/store/books/details?id=NL08BQAAQBAJ&source=gbs_api",
 	  "canonicalVolumeLink": "https://market.android.com/details?id=book-NL08BQAAQBAJ"
 	},
@@ -1323,11 +1323,11 @@
 	  "allowAnonLogging": true,
 	  "contentVersion": "2.2.2.0.preview.3",
 	  "imageLinks": {
-		"smallThumbnail": "http://books.google.com/books/content?id=C1nTBgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
-		"thumbnail": "http://books.google.com/books/content?id=C1nTBgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+		"smallThumbnail": "https://books.google.com/books/content?id=C1nTBgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+		"thumbnail": "https://books.google.com/books/content?id=C1nTBgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
 	  },
 	  "language": "en",
-	  "previewLink": "http://books.google.de/books?id=C1nTBgAAQBAJ&pg=PA57&dq=intitle:spring+framework&hl=&cd=21&source=gbs_api",
+	  "previewLink": "https://books.google.de/books?id=C1nTBgAAQBAJ&pg=PA57&dq=intitle:spring+framework&hl=&cd=21&source=gbs_api",
 	  "infoLink": "https://play.google.com/store/books/details?id=C1nTBgAAQBAJ&source=gbs_api",
 	  "canonicalVolumeLink": "https://market.android.com/details?id=book-C1nTBgAAQBAJ"
 	},
@@ -1400,11 +1400,11 @@
 	  "allowAnonLogging": false,
 	  "contentVersion": "2.5.4.0.preview.3",
 	  "imageLinks": {
-		"smallThumbnail": "http://books.google.com/books/content?id=WWgMsgBl3B4C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
-		"thumbnail": "http://books.google.com/books/content?id=WWgMsgBl3B4C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+		"smallThumbnail": "https://books.google.com/books/content?id=WWgMsgBl3B4C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+		"thumbnail": "https://books.google.com/books/content?id=WWgMsgBl3B4C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
 	  },
 	  "language": "en",
-	  "previewLink": "http://books.google.de/books?id=WWgMsgBl3B4C&pg=PA103&dq=intitle:spring+framework&hl=&cd=22&source=gbs_api",
+	  "previewLink": "https://books.google.de/books?id=WWgMsgBl3B4C&pg=PA103&dq=intitle:spring+framework&hl=&cd=22&source=gbs_api",
 	  "infoLink": "https://play.google.com/store/books/details?id=WWgMsgBl3B4C&source=gbs_api",
 	  "canonicalVolumeLink": "https://market.android.com/details?id=book-WWgMsgBl3B4C"
 	},
@@ -1477,11 +1477,11 @@
 	  "allowAnonLogging": false,
 	  "contentVersion": "1.4.5.0.preview.3",
 	  "imageLinks": {
-		"smallThumbnail": "http://books.google.com/books/content?id=JohFDAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
-		"thumbnail": "http://books.google.com/books/content?id=JohFDAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+		"smallThumbnail": "https://books.google.com/books/content?id=JohFDAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+		"thumbnail": "https://books.google.com/books/content?id=JohFDAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
 	  },
 	  "language": "en",
-	  "previewLink": "http://books.google.de/books?id=JohFDAAAQBAJ&printsec=frontcover&dq=intitle:spring+framework&hl=&cd=23&source=gbs_api",
+	  "previewLink": "https://books.google.de/books?id=JohFDAAAQBAJ&printsec=frontcover&dq=intitle:spring+framework&hl=&cd=23&source=gbs_api",
 	  "infoLink": "https://play.google.com/store/books/details?id=JohFDAAAQBAJ&source=gbs_api",
 	  "canonicalVolumeLink": "https://market.android.com/details?id=book-JohFDAAAQBAJ"
 	},
@@ -1548,13 +1548,13 @@
 	  "allowAnonLogging": false,
 	  "contentVersion": "0.2.0.0.preview.1",
 	  "imageLinks": {
-		"smallThumbnail": "http://books.google.com/books/content?id=lhPiwwcWViMC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
-		"thumbnail": "http://books.google.com/books/content?id=lhPiwwcWViMC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+		"smallThumbnail": "https://books.google.com/books/content?id=lhPiwwcWViMC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+		"thumbnail": "https://books.google.com/books/content?id=lhPiwwcWViMC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
 	  },
 	  "language": "de",
-	  "previewLink": "http://books.google.de/books?id=lhPiwwcWViMC&pg=PA3&dq=intitle:spring+framework&hl=&cd=24&source=gbs_api",
-	  "infoLink": "http://books.google.de/books?id=lhPiwwcWViMC&dq=intitle:spring+framework&hl=&source=gbs_api",
-	  "canonicalVolumeLink": "http://books.google.de/books/about/Technischer_Aufbau_und_m%C3%B6glicher_Einsat.html?hl=&id=lhPiwwcWViMC"
+	  "previewLink": "https://books.google.de/books?id=lhPiwwcWViMC&pg=PA3&dq=intitle:spring+framework&hl=&cd=24&source=gbs_api",
+	  "infoLink": "https://books.google.de/books?id=lhPiwwcWViMC&dq=intitle:spring+framework&hl=&source=gbs_api",
+	  "canonicalVolumeLink": "https://books.google.de/books/about/Technischer_Aufbau_und_m%C3%B6glicher_Einsat.html?hl=&id=lhPiwwcWViMC"
 	},
 	"saleInfo": {
 	  "country": "DE",
@@ -1604,11 +1604,11 @@
 	  "allowAnonLogging": true,
 	  "contentVersion": "1.4.3.0.preview.3",
 	  "imageLinks": {
-		"smallThumbnail": "http://books.google.com/books/content?id=fzpgOZLyWpwC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
-		"thumbnail": "http://books.google.com/books/content?id=fzpgOZLyWpwC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+		"smallThumbnail": "https://books.google.com/books/content?id=fzpgOZLyWpwC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+		"thumbnail": "https://books.google.com/books/content?id=fzpgOZLyWpwC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
 	  },
 	  "language": "en",
-	  "previewLink": "http://books.google.de/books?id=fzpgOZLyWpwC&pg=PR16&dq=intitle:spring+framework&hl=&cd=25&source=gbs_api",
+	  "previewLink": "https://books.google.de/books?id=fzpgOZLyWpwC&pg=PR16&dq=intitle:spring+framework&hl=&cd=25&source=gbs_api",
 	  "infoLink": "https://play.google.com/store/books/details?id=fzpgOZLyWpwC&source=gbs_api",
 	  "canonicalVolumeLink": "https://market.android.com/details?id=book-fzpgOZLyWpwC"
 	},
@@ -1679,13 +1679,13 @@
 	  "allowAnonLogging": false,
 	  "contentVersion": "preview-1.0.0",
 	  "imageLinks": {
-		"smallThumbnail": "http://books.google.com/books/content?id=7dNBLgEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
-		"thumbnail": "http://books.google.com/books/content?id=7dNBLgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+		"smallThumbnail": "https://books.google.com/books/content?id=7dNBLgEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+		"thumbnail": "https://books.google.com/books/content?id=7dNBLgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
 	  },
 	  "language": "en",
-	  "previewLink": "http://books.google.de/books?id=7dNBLgEACAAJ&dq=intitle:spring+framework&hl=&cd=26&source=gbs_api",
-	  "infoLink": "http://books.google.de/books?id=7dNBLgEACAAJ&dq=intitle:spring+framework&hl=&source=gbs_api",
-	  "canonicalVolumeLink": "http://books.google.de/books/about/Developing_Enterprise_Applications_with.html?hl=&id=7dNBLgEACAAJ"
+	  "previewLink": "https://books.google.de/books?id=7dNBLgEACAAJ&dq=intitle:spring+framework&hl=&cd=26&source=gbs_api",
+	  "infoLink": "https://books.google.de/books?id=7dNBLgEACAAJ&dq=intitle:spring+framework&hl=&source=gbs_api",
+	  "canonicalVolumeLink": "https://books.google.de/books/about/Developing_Enterprise_Applications_with.html?hl=&id=7dNBLgEACAAJ"
 	},
 	"saleInfo": {
 	  "country": "DE",
@@ -1730,11 +1730,11 @@
 	  "allowAnonLogging": false,
 	  "contentVersion": "0.2.1.0.preview.1",
 	  "imageLinks": {
-		"smallThumbnail": "http://books.google.com/books/content?id=4CtJE6fVergC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
-		"thumbnail": "http://books.google.com/books/content?id=4CtJE6fVergC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+		"smallThumbnail": "https://books.google.com/books/content?id=4CtJE6fVergC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+		"thumbnail": "https://books.google.com/books/content?id=4CtJE6fVergC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
 	  },
 	  "language": "en",
-	  "previewLink": "http://books.google.de/books?id=4CtJE6fVergC&pg=PR15&dq=intitle:spring+framework&hl=&cd=27&source=gbs_api",
+	  "previewLink": "https://books.google.de/books?id=4CtJE6fVergC&pg=PR15&dq=intitle:spring+framework&hl=&cd=27&source=gbs_api",
 	  "infoLink": "https://play.google.com/store/books/details?id=4CtJE6fVergC&source=gbs_api",
 	  "canonicalVolumeLink": "https://market.android.com/details?id=book-4CtJE6fVergC"
 	},
@@ -1804,11 +1804,11 @@
 	  "allowAnonLogging": false,
 	  "contentVersion": "1.2.1.0.preview.1",
 	  "imageLinks": {
-		"smallThumbnail": "http://books.google.com/books/content?id=DVR4WvD6ekEC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
-		"thumbnail": "http://books.google.com/books/content?id=DVR4WvD6ekEC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+		"smallThumbnail": "https://books.google.com/books/content?id=DVR4WvD6ekEC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+		"thumbnail": "https://books.google.com/books/content?id=DVR4WvD6ekEC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
 	  },
 	  "language": "en",
-	  "previewLink": "http://books.google.de/books?id=DVR4WvD6ekEC&pg=PA352&dq=intitle:spring+framework&hl=&cd=28&source=gbs_api",
+	  "previewLink": "https://books.google.de/books?id=DVR4WvD6ekEC&pg=PA352&dq=intitle:spring+framework&hl=&cd=28&source=gbs_api",
 	  "infoLink": "https://play.google.com/store/books/details?id=DVR4WvD6ekEC&source=gbs_api",
 	  "canonicalVolumeLink": "https://market.android.com/details?id=book-DVR4WvD6ekEC"
 	},
@@ -1878,13 +1878,13 @@
 	  "allowAnonLogging": true,
 	  "contentVersion": "0.4.4.0.preview.3",
 	  "imageLinks": {
-		"smallThumbnail": "http://books.google.com/books/content?id=1QGyKvGu1t4C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
-		"thumbnail": "http://books.google.com/books/content?id=1QGyKvGu1t4C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+		"smallThumbnail": "https://books.google.com/books/content?id=1QGyKvGu1t4C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+		"thumbnail": "https://books.google.com/books/content?id=1QGyKvGu1t4C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
 	  },
 	  "language": "en",
-	  "previewLink": "http://books.google.de/books?id=1QGyKvGu1t4C&pg=PA452&dq=intitle:spring+framework&hl=&cd=29&source=gbs_api",
-	  "infoLink": "http://books.google.de/books?id=1QGyKvGu1t4C&dq=intitle:spring+framework&hl=&source=gbs_api",
-	  "canonicalVolumeLink": "http://books.google.de/books/about/Pro_Spring_Batch.html?hl=&id=1QGyKvGu1t4C"
+	  "previewLink": "https://books.google.de/books?id=1QGyKvGu1t4C&pg=PA452&dq=intitle:spring+framework&hl=&cd=29&source=gbs_api",
+	  "infoLink": "https://books.google.de/books?id=1QGyKvGu1t4C&dq=intitle:spring+framework&hl=&source=gbs_api",
+	  "canonicalVolumeLink": "https://books.google.de/books/about/Pro_Spring_Batch.html?hl=&id=1QGyKvGu1t4C"
 	},
 	"saleInfo": {
 	  "country": "DE",
@@ -1929,11 +1929,11 @@
 	  "allowAnonLogging": true,
 	  "contentVersion": "preview-1.0.0",
 	  "imageLinks": {
-		"smallThumbnail": "http://books.google.com/books/content?id=OCtQAgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
-		"thumbnail": "http://books.google.com/books/content?id=OCtQAgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+		"smallThumbnail": "https://books.google.com/books/content?id=OCtQAgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+		"thumbnail": "https://books.google.com/books/content?id=OCtQAgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
 	  },
 	  "language": "de",
-	  "previewLink": "http://books.google.de/books?id=OCtQAgAAQBAJ&pg=PR17&dq=intitle:spring+framework&hl=&cd=30&source=gbs_api",
+	  "previewLink": "https://books.google.de/books?id=OCtQAgAAQBAJ&pg=PR17&dq=intitle:spring+framework&hl=&cd=30&source=gbs_api",
 	  "infoLink": "https://play.google.com/store/books/details?id=OCtQAgAAQBAJ&source=gbs_api",
 	  "canonicalVolumeLink": "https://market.android.com/details?id=book-OCtQAgAAQBAJ"
 	},
@@ -2003,11 +2003,11 @@
 	  "allowAnonLogging": true,
 	  "contentVersion": "1.2.2.0.preview.3",
 	  "imageLinks": {
-		"smallThumbnail": "http://books.google.com/books/content?id=-VPy8SXmzfcC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
-		"thumbnail": "http://books.google.com/books/content?id=-VPy8SXmzfcC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+		"smallThumbnail": "https://books.google.com/books/content?id=-VPy8SXmzfcC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+		"thumbnail": "https://books.google.com/books/content?id=-VPy8SXmzfcC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
 	  },
 	  "language": "en",
-	  "previewLink": "http://books.google.de/books?id=-VPy8SXmzfcC&pg=PT426&dq=intitle:spring+framework&hl=&cd=31&source=gbs_api",
+	  "previewLink": "https://books.google.de/books?id=-VPy8SXmzfcC&pg=PT426&dq=intitle:spring+framework&hl=&cd=31&source=gbs_api",
 	  "infoLink": "https://play.google.com/store/books/details?id=-VPy8SXmzfcC&source=gbs_api",
 	  "canonicalVolumeLink": "https://market.android.com/details?id=book--VPy8SXmzfcC"
 	},
@@ -2079,11 +2079,11 @@
 	  "allowAnonLogging": true,
 	  "contentVersion": "0.6.5.0.preview.3",
 	  "imageLinks": {
-		"smallThumbnail": "http://books.google.com/books/content?id=n4RgBAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
-		"thumbnail": "http://books.google.com/books/content?id=n4RgBAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+		"smallThumbnail": "https://books.google.com/books/content?id=n4RgBAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+		"thumbnail": "https://books.google.com/books/content?id=n4RgBAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
 	  },
 	  "language": "en",
-	  "previewLink": "http://books.google.de/books?id=n4RgBAAAQBAJ&pg=PA533&dq=intitle:spring+framework&hl=&cd=32&source=gbs_api",
+	  "previewLink": "https://books.google.de/books?id=n4RgBAAAQBAJ&pg=PA533&dq=intitle:spring+framework&hl=&cd=32&source=gbs_api",
 	  "infoLink": "https://play.google.com/store/books/details?id=n4RgBAAAQBAJ&source=gbs_api",
 	  "canonicalVolumeLink": "https://market.android.com/details?id=book-n4RgBAAAQBAJ"
 	},
@@ -2154,13 +2154,13 @@
 	  "allowAnonLogging": false,
 	  "contentVersion": "1.1.1.0.preview.3",
 	  "imageLinks": {
-		"smallThumbnail": "http://books.google.com/books/content?id=EeaKMdjNsLoC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
-		"thumbnail": "http://books.google.com/books/content?id=EeaKMdjNsLoC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+		"smallThumbnail": "https://books.google.com/books/content?id=EeaKMdjNsLoC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+		"thumbnail": "https://books.google.com/books/content?id=EeaKMdjNsLoC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
 	  },
 	  "language": "en",
-	  "previewLink": "http://books.google.de/books?id=EeaKMdjNsLoC&pg=PA1&dq=intitle:spring+framework&hl=&cd=33&source=gbs_api",
-	  "infoLink": "http://books.google.de/books?id=EeaKMdjNsLoC&dq=intitle:spring+framework&hl=&source=gbs_api",
-	  "canonicalVolumeLink": "http://books.google.de/books/about/Spring_Persistence_A_Running_Start.html?hl=&id=EeaKMdjNsLoC"
+	  "previewLink": "https://books.google.de/books?id=EeaKMdjNsLoC&pg=PA1&dq=intitle:spring+framework&hl=&cd=33&source=gbs_api",
+	  "infoLink": "https://books.google.de/books?id=EeaKMdjNsLoC&dq=intitle:spring+framework&hl=&source=gbs_api",
+	  "canonicalVolumeLink": "https://books.google.de/books/about/Spring_Persistence_A_Running_Start.html?hl=&id=EeaKMdjNsLoC"
 	},
 	"saleInfo": {
 	  "country": "DE",
@@ -2207,11 +2207,11 @@
 	  "allowAnonLogging": false,
 	  "contentVersion": "1.5.4.0.preview.3",
 	  "imageLinks": {
-		"smallThumbnail": "http://books.google.com/books/content?id=xCu4IYcWS5YC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
-		"thumbnail": "http://books.google.com/books/content?id=xCu4IYcWS5YC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+		"smallThumbnail": "https://books.google.com/books/content?id=xCu4IYcWS5YC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+		"thumbnail": "https://books.google.com/books/content?id=xCu4IYcWS5YC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
 	  },
 	  "language": "en",
-	  "previewLink": "http://books.google.de/books?id=xCu4IYcWS5YC&pg=PA63&dq=intitle:spring+framework&hl=&cd=34&source=gbs_api",
+	  "previewLink": "https://books.google.de/books?id=xCu4IYcWS5YC&pg=PA63&dq=intitle:spring+framework&hl=&cd=34&source=gbs_api",
 	  "infoLink": "https://play.google.com/store/books/details?id=xCu4IYcWS5YC&source=gbs_api",
 	  "canonicalVolumeLink": "https://market.android.com/details?id=book-xCu4IYcWS5YC"
 	},
@@ -2283,13 +2283,13 @@
 	  "allowAnonLogging": true,
 	  "contentVersion": "1.1.1.0.preview.3",
 	  "imageLinks": {
-		"smallThumbnail": "http://books.google.com/books/content?id=uhcmBgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
-		"thumbnail": "http://books.google.com/books/content?id=uhcmBgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+		"smallThumbnail": "https://books.google.com/books/content?id=uhcmBgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+		"thumbnail": "https://books.google.com/books/content?id=uhcmBgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
 	  },
 	  "language": "en",
-	  "previewLink": "http://books.google.de/books?id=uhcmBgAAQBAJ&pg=PT286&dq=intitle:spring+framework&hl=&cd=35&source=gbs_api",
-	  "infoLink": "http://books.google.de/books?id=uhcmBgAAQBAJ&dq=intitle:spring+framework&hl=&source=gbs_api",
-	  "canonicalVolumeLink": "http://books.google.de/books/about/Servlet_JSP_and_Spring_MVC.html?hl=&id=uhcmBgAAQBAJ"
+	  "previewLink": "https://books.google.de/books?id=uhcmBgAAQBAJ&pg=PT286&dq=intitle:spring+framework&hl=&cd=35&source=gbs_api",
+	  "infoLink": "https://books.google.de/books?id=uhcmBgAAQBAJ&dq=intitle:spring+framework&hl=&source=gbs_api",
+	  "canonicalVolumeLink": "https://books.google.de/books/about/Servlet_JSP_and_Spring_MVC.html?hl=&id=uhcmBgAAQBAJ"
 	},
 	"saleInfo": {
 	  "country": "DE",
@@ -2337,13 +2337,13 @@
 	  "allowAnonLogging": false,
 	  "contentVersion": "1.8.1.0.preview.1",
 	  "imageLinks": {
-		"smallThumbnail": "http://books.google.com/books/content?id=VfEwBgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
-		"thumbnail": "http://books.google.com/books/content?id=VfEwBgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+		"smallThumbnail": "https://books.google.com/books/content?id=VfEwBgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+		"thumbnail": "https://books.google.com/books/content?id=VfEwBgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
 	  },
 	  "language": "en",
-	  "previewLink": "http://books.google.de/books?id=VfEwBgAAQBAJ&pg=PA340&dq=intitle:spring+framework&hl=&cd=36&source=gbs_api",
-	  "infoLink": "http://books.google.de/books?id=VfEwBgAAQBAJ&dq=intitle:spring+framework&hl=&source=gbs_api",
-	  "canonicalVolumeLink": "http://books.google.de/books/about/Beginning_Spring.html?hl=&id=VfEwBgAAQBAJ"
+	  "previewLink": "https://books.google.de/books?id=VfEwBgAAQBAJ&pg=PA340&dq=intitle:spring+framework&hl=&cd=36&source=gbs_api",
+	  "infoLink": "https://books.google.de/books?id=VfEwBgAAQBAJ&dq=intitle:spring+framework&hl=&source=gbs_api",
+	  "canonicalVolumeLink": "https://books.google.de/books/about/Beginning_Spring.html?hl=&id=VfEwBgAAQBAJ"
 	},
 	"saleInfo": {
 	  "country": "DE",
@@ -2388,13 +2388,13 @@
 	  "allowAnonLogging": false,
 	  "contentVersion": "0.1.1.0.preview.1",
 	  "imageLinks": {
-		"smallThumbnail": "http://books.google.com/books/content?id=LalyxM305ogC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
-		"thumbnail": "http://books.google.com/books/content?id=LalyxM305ogC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+		"smallThumbnail": "https://books.google.com/books/content?id=LalyxM305ogC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+		"thumbnail": "https://books.google.com/books/content?id=LalyxM305ogC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
 	  },
 	  "language": "en",
-	  "previewLink": "http://books.google.de/books?id=LalyxM305ogC&pg=PR7&dq=intitle:spring+framework&hl=&cd=37&source=gbs_api",
-	  "infoLink": "http://books.google.de/books?id=LalyxM305ogC&dq=intitle:spring+framework&hl=&source=gbs_api",
-	  "canonicalVolumeLink": "http://books.google.de/books/about/Just_Spring_Data_Access.html?hl=&id=LalyxM305ogC"
+	  "previewLink": "https://books.google.de/books?id=LalyxM305ogC&pg=PR7&dq=intitle:spring+framework&hl=&cd=37&source=gbs_api",
+	  "infoLink": "https://books.google.de/books?id=LalyxM305ogC&dq=intitle:spring+framework&hl=&source=gbs_api",
+	  "canonicalVolumeLink": "https://books.google.de/books/about/Just_Spring_Data_Access.html?hl=&id=LalyxM305ogC"
 	},
 	"saleInfo": {
 	  "country": "DE",
@@ -2442,11 +2442,11 @@
 	  "allowAnonLogging": false,
 	  "contentVersion": "2.3.4.0.preview.3",
 	  "imageLinks": {
-		"smallThumbnail": "http://books.google.com/books/content?id=q2PIjAJoXsAC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
-		"thumbnail": "http://books.google.com/books/content?id=q2PIjAJoXsAC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+		"smallThumbnail": "https://books.google.com/books/content?id=q2PIjAJoXsAC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+		"thumbnail": "https://books.google.com/books/content?id=q2PIjAJoXsAC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
 	  },
 	  "language": "en",
-	  "previewLink": "http://books.google.de/books?id=q2PIjAJoXsAC&pg=PA3&dq=intitle:spring+framework&hl=&cd=38&source=gbs_api",
+	  "previewLink": "https://books.google.de/books?id=q2PIjAJoXsAC&pg=PA3&dq=intitle:spring+framework&hl=&cd=38&source=gbs_api",
 	  "infoLink": "https://play.google.com/store/books/details?id=q2PIjAJoXsAC&source=gbs_api",
 	  "canonicalVolumeLink": "https://market.android.com/details?id=book-q2PIjAJoXsAC"
 	},
@@ -2516,11 +2516,11 @@
 	  "allowAnonLogging": true,
 	  "contentVersion": "2.2.2.0.preview.3",
 	  "imageLinks": {
-		"smallThumbnail": "http://books.google.com/books/content?id=jyPHBgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
-		"thumbnail": "http://books.google.com/books/content?id=jyPHBgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+		"smallThumbnail": "https://books.google.com/books/content?id=jyPHBgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+		"thumbnail": "https://books.google.com/books/content?id=jyPHBgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
 	  },
 	  "language": "en",
-	  "previewLink": "http://books.google.de/books?id=jyPHBgAAQBAJ&pg=PA4&dq=intitle:spring+framework&hl=&cd=39&source=gbs_api",
+	  "previewLink": "https://books.google.de/books?id=jyPHBgAAQBAJ&pg=PA4&dq=intitle:spring+framework&hl=&cd=39&source=gbs_api",
 	  "infoLink": "https://play.google.com/store/books/details?id=jyPHBgAAQBAJ&source=gbs_api",
 	  "canonicalVolumeLink": "https://market.android.com/details?id=book-jyPHBgAAQBAJ"
 	},
@@ -2583,9 +2583,9 @@
 	  "allowAnonLogging": false,
 	  "contentVersion": "preview-1.0.0",
 	  "language": "en",
-	  "previewLink": "http://books.google.de/books?id=oYt5MwEACAAJ&dq=intitle:spring+framework&hl=&cd=40&source=gbs_api",
-	  "infoLink": "http://books.google.de/books?id=oYt5MwEACAAJ&dq=intitle:spring+framework&hl=&source=gbs_api",
-	  "canonicalVolumeLink": "http://books.google.de/books/about/Desenvolupament_amb_Spring_Framework.html?hl=&id=oYt5MwEACAAJ"
+	  "previewLink": "https://books.google.de/books?id=oYt5MwEACAAJ&dq=intitle:spring+framework&hl=&cd=40&source=gbs_api",
+	  "infoLink": "https://books.google.de/books?id=oYt5MwEACAAJ&dq=intitle:spring+framework&hl=&source=gbs_api",
+	  "canonicalVolumeLink": "https://books.google.de/books/about/Desenvolupament_amb_Spring_Framework.html?hl=&id=oYt5MwEACAAJ"
 	},
 	"saleInfo": {
 	  "country": "DE",
@@ -2627,11 +2627,11 @@
 	  "allowAnonLogging": true,
 	  "contentVersion": "2.2.2.0.preview.3",
 	  "imageLinks": {
-		"smallThumbnail": "http://books.google.com/books/content?id=fdhpBgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
-		"thumbnail": "http://books.google.com/books/content?id=fdhpBgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+		"smallThumbnail": "https://books.google.com/books/content?id=fdhpBgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+		"thumbnail": "https://books.google.com/books/content?id=fdhpBgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
 	  },
 	  "language": "en",
-	  "previewLink": "http://books.google.de/books?id=fdhpBgAAQBAJ&pg=PA9&dq=intitle:spring+framework&hl=&cd=41&source=gbs_api",
+	  "previewLink": "https://books.google.de/books?id=fdhpBgAAQBAJ&pg=PA9&dq=intitle:spring+framework&hl=&cd=41&source=gbs_api",
 	  "infoLink": "https://play.google.com/store/books/details?id=fdhpBgAAQBAJ&source=gbs_api",
 	  "canonicalVolumeLink": "https://market.android.com/details?id=book-fdhpBgAAQBAJ"
 	},
@@ -2697,13 +2697,13 @@
 	  "allowAnonLogging": false,
 	  "contentVersion": "preview-1.0.0",
 	  "imageLinks": {
-		"smallThumbnail": "http://books.google.com/books/content?id=wrPfoQEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
-		"thumbnail": "http://books.google.com/books/content?id=wrPfoQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+		"smallThumbnail": "https://books.google.com/books/content?id=wrPfoQEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+		"thumbnail": "https://books.google.com/books/content?id=wrPfoQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
 	  },
 	  "language": "ja",
-	  "previewLink": "http://books.google.de/books?id=wrPfoQEACAAJ&dq=intitle:spring+framework&hl=&cd=42&source=gbs_api",
-	  "infoLink": "http://books.google.de/books?id=wrPfoQEACAAJ&dq=intitle:spring+framework&hl=&source=gbs_api",
-	  "canonicalVolumeLink": "http://books.google.de/books/about/Spring_Framework_4_%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9F%E3%83%B3%E3%82%B0.html?hl=&id=wrPfoQEACAAJ"
+	  "previewLink": "https://books.google.de/books?id=wrPfoQEACAAJ&dq=intitle:spring+framework&hl=&cd=42&source=gbs_api",
+	  "infoLink": "https://books.google.de/books?id=wrPfoQEACAAJ&dq=intitle:spring+framework&hl=&source=gbs_api",
+	  "canonicalVolumeLink": "https://books.google.de/books/about/Spring_Framework_4_%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9F%E3%83%B3%E3%82%B0.html?hl=&id=wrPfoQEACAAJ"
 	},
 	"saleInfo": {
 	  "country": "DE",
@@ -2750,13 +2750,13 @@
 	  "allowAnonLogging": false,
 	  "contentVersion": "0.1.0.0.preview.1",
 	  "imageLinks": {
-		"smallThumbnail": "http://books.google.com/books/content?id=Il4QsKhktnwC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
-		"thumbnail": "http://books.google.com/books/content?id=Il4QsKhktnwC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+		"smallThumbnail": "https://books.google.com/books/content?id=Il4QsKhktnwC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+		"thumbnail": "https://books.google.com/books/content?id=Il4QsKhktnwC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
 	  },
 	  "language": "en",
-	  "previewLink": "http://books.google.de/books?id=Il4QsKhktnwC&printsec=frontcover&dq=intitle:spring+framework&hl=&cd=44&source=gbs_api",
-	  "infoLink": "http://books.google.de/books?id=Il4QsKhktnwC&dq=intitle:spring+framework&hl=&source=gbs_api",
-	  "canonicalVolumeLink": "http://books.google.de/books/about/Spring_Live.html?hl=&id=Il4QsKhktnwC"
+	  "previewLink": "https://books.google.de/books?id=Il4QsKhktnwC&printsec=frontcover&dq=intitle:spring+framework&hl=&cd=44&source=gbs_api",
+	  "infoLink": "https://books.google.de/books?id=Il4QsKhktnwC&dq=intitle:spring+framework&hl=&source=gbs_api",
+	  "canonicalVolumeLink": "https://books.google.de/books/about/Spring_Live.html?hl=&id=Il4QsKhktnwC"
 	},
 	"saleInfo": {
 	  "country": "DE",
@@ -2802,11 +2802,11 @@
 	  "allowAnonLogging": true,
 	  "contentVersion": "0.3.1.0.preview.3",
 	  "imageLinks": {
-		"smallThumbnail": "http://books.google.com/books/content?id=pibT0NTc9JQC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
-		"thumbnail": "http://books.google.com/books/content?id=pibT0NTc9JQC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+		"smallThumbnail": "https://books.google.com/books/content?id=pibT0NTc9JQC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+		"thumbnail": "https://books.google.com/books/content?id=pibT0NTc9JQC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
 	  },
 	  "language": "en",
-	  "previewLink": "http://books.google.de/books?id=pibT0NTc9JQC&pg=PA18&dq=intitle:spring+framework&hl=&cd=45&source=gbs_api",
+	  "previewLink": "https://books.google.de/books?id=pibT0NTc9JQC&pg=PA18&dq=intitle:spring+framework&hl=&cd=45&source=gbs_api",
 	  "infoLink": "https://play.google.com/store/books/details?id=pibT0NTc9JQC&source=gbs_api",
 	  "canonicalVolumeLink": "https://market.android.com/details?id=book-pibT0NTc9JQC"
 	},
@@ -2878,11 +2878,11 @@
 	  "allowAnonLogging": false,
 	  "contentVersion": "2.3.3.0.preview.3",
 	  "imageLinks": {
-		"smallThumbnail": "http://books.google.com/books/content?id=P6IW1YU1Vz8C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
-		"thumbnail": "http://books.google.com/books/content?id=P6IW1YU1Vz8C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+		"smallThumbnail": "https://books.google.com/books/content?id=P6IW1YU1Vz8C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+		"thumbnail": "https://books.google.com/books/content?id=P6IW1YU1Vz8C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
 	  },
 	  "language": "en",
-	  "previewLink": "http://books.google.de/books?id=P6IW1YU1Vz8C&pg=PT153&dq=intitle:spring+framework&hl=&cd=47&source=gbs_api",
+	  "previewLink": "https://books.google.de/books?id=P6IW1YU1Vz8C&pg=PT153&dq=intitle:spring+framework&hl=&cd=47&source=gbs_api",
 	  "infoLink": "https://play.google.com/store/books/details?id=P6IW1YU1Vz8C&source=gbs_api",
 	  "canonicalVolumeLink": "https://market.android.com/details?id=book-P6IW1YU1Vz8C"
 	},
@@ -2954,11 +2954,11 @@
 	  "allowAnonLogging": true,
 	  "contentVersion": "1.1.1.0.preview.3",
 	  "imageLinks": {
-		"smallThumbnail": "http://books.google.com/books/content?id=nFZwAgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
-		"thumbnail": "http://books.google.com/books/content?id=nFZwAgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+		"smallThumbnail": "https://books.google.com/books/content?id=nFZwAgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+		"thumbnail": "https://books.google.com/books/content?id=nFZwAgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
 	  },
 	  "language": "en",
-	  "previewLink": "http://books.google.de/books?id=nFZwAgAAQBAJ&pg=PT228&dq=intitle:spring+framework&hl=&cd=48&source=gbs_api",
+	  "previewLink": "https://books.google.de/books?id=nFZwAgAAQBAJ&pg=PT228&dq=intitle:spring+framework&hl=&cd=48&source=gbs_api",
 	  "infoLink": "https://play.google.com/store/books/details?id=nFZwAgAAQBAJ&source=gbs_api",
 	  "canonicalVolumeLink": "https://market.android.com/details?id=book-nFZwAgAAQBAJ"
 	},
@@ -3028,13 +3028,13 @@
 	  "allowAnonLogging": false,
 	  "contentVersion": "0.1.0.0.preview.1",
 	  "imageLinks": {
-		"smallThumbnail": "http://books.google.com/books/content?id=0hj_woHnMGIC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
-		"thumbnail": "http://books.google.com/books/content?id=0hj_woHnMGIC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+		"smallThumbnail": "https://books.google.com/books/content?id=0hj_woHnMGIC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+		"thumbnail": "https://books.google.com/books/content?id=0hj_woHnMGIC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
 	  },
 	  "language": "en",
-	  "previewLink": "http://books.google.de/books?id=0hj_woHnMGIC&printsec=frontcover&dq=intitle:spring+framework&hl=&cd=49&source=gbs_api",
-	  "infoLink": "http://books.google.de/books?id=0hj_woHnMGIC&dq=intitle:spring+framework&hl=&source=gbs_api",
-	  "canonicalVolumeLink": "http://books.google.de/books/about/Just_Spring_Integration.html?hl=&id=0hj_woHnMGIC"
+	  "previewLink": "https://books.google.de/books?id=0hj_woHnMGIC&printsec=frontcover&dq=intitle:spring+framework&hl=&cd=49&source=gbs_api",
+	  "infoLink": "https://books.google.de/books?id=0hj_woHnMGIC&dq=intitle:spring+framework&hl=&source=gbs_api",
+	  "canonicalVolumeLink": "https://books.google.de/books/about/Just_Spring_Integration.html?hl=&id=0hj_woHnMGIC"
 	},
 	"saleInfo": {
 	  "country": "DE",
@@ -3079,11 +3079,11 @@
 	  "allowAnonLogging": true,
 	  "contentVersion": "1.1.1.0.preview.3",
 	  "imageLinks": {
-		"smallThumbnail": "http://books.google.com/books/content?id=xcaiBQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
-		"thumbnail": "http://books.google.com/books/content?id=xcaiBQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+		"smallThumbnail": "https://books.google.com/books/content?id=xcaiBQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+		"thumbnail": "https://books.google.com/books/content?id=xcaiBQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
 	  },
 	  "language": "en",
-	  "previewLink": "http://books.google.de/books?id=xcaiBQAAQBAJ&pg=PT10&dq=intitle:spring+framework&hl=&cd=51&source=gbs_api",
+	  "previewLink": "https://books.google.de/books?id=xcaiBQAAQBAJ&pg=PT10&dq=intitle:spring+framework&hl=&cd=51&source=gbs_api",
 	  "infoLink": "https://play.google.com/store/books/details?id=xcaiBQAAQBAJ&source=gbs_api",
 	  "canonicalVolumeLink": "https://market.android.com/details?id=book-xcaiBQAAQBAJ"
 	},
@@ -3153,11 +3153,11 @@
 	  "allowAnonLogging": false,
 	  "contentVersion": "preview-1.0.0",
 	  "imageLinks": {
-		"smallThumbnail": "http://books.google.com/books/content?id=K8O8NgbipCQC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
-		"thumbnail": "http://books.google.com/books/content?id=K8O8NgbipCQC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+		"smallThumbnail": "https://books.google.com/books/content?id=K8O8NgbipCQC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+		"thumbnail": "https://books.google.com/books/content?id=K8O8NgbipCQC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
 	  },
 	  "language": "en",
-	  "previewLink": "http://books.google.de/books?id=K8O8NgbipCQC&pg=PT84&dq=intitle:spring+framework&hl=&cd=52&source=gbs_api",
+	  "previewLink": "https://books.google.de/books?id=K8O8NgbipCQC&pg=PT84&dq=intitle:spring+framework&hl=&cd=52&source=gbs_api",
 	  "infoLink": "https://play.google.com/store/books/details?id=K8O8NgbipCQC&source=gbs_api",
 	  "canonicalVolumeLink": "https://market.android.com/details?id=book-K8O8NgbipCQC"
 	},
@@ -3227,13 +3227,13 @@
 	  "allowAnonLogging": false,
 	  "contentVersion": "preview-1.0.0",
 	  "imageLinks": {
-		"smallThumbnail": "http://books.google.com/books/content?id=FCVnsq1ZUI0C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
-		"thumbnail": "http://books.google.com/books/content?id=FCVnsq1ZUI0C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+		"smallThumbnail": "https://books.google.com/books/content?id=FCVnsq1ZUI0C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+		"thumbnail": "https://books.google.com/books/content?id=FCVnsq1ZUI0C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
 	  },
 	  "language": "en",
-	  "previewLink": "http://books.google.de/books?id=FCVnsq1ZUI0C&pg=PA355&dq=intitle:spring+framework&hl=&cd=54&source=gbs_api",
-	  "infoLink": "http://books.google.de/books?id=FCVnsq1ZUI0C&dq=intitle:spring+framework&hl=&source=gbs_api",
-	  "canonicalVolumeLink": "http://books.google.de/books/about/Pro_Spring_Dynamic_Modules_for_OSGi_Serv.html?hl=&id=FCVnsq1ZUI0C"
+	  "previewLink": "https://books.google.de/books?id=FCVnsq1ZUI0C&pg=PA355&dq=intitle:spring+framework&hl=&cd=54&source=gbs_api",
+	  "infoLink": "https://books.google.de/books?id=FCVnsq1ZUI0C&dq=intitle:spring+framework&hl=&source=gbs_api",
+	  "canonicalVolumeLink": "https://books.google.de/books/about/Pro_Spring_Dynamic_Modules_for_OSGi_Serv.html?hl=&id=FCVnsq1ZUI0C"
 	},
 	"saleInfo": {
 	  "country": "DE",
@@ -3278,11 +3278,11 @@
 	  "allowAnonLogging": true,
 	  "contentVersion": "2.3.3.0.preview.3",
 	  "imageLinks": {
-		"smallThumbnail": "http://books.google.com/books/content?id=lIPnYGTLZd8C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
-		"thumbnail": "http://books.google.com/books/content?id=lIPnYGTLZd8C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+		"smallThumbnail": "https://books.google.com/books/content?id=lIPnYGTLZd8C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+		"thumbnail": "https://books.google.com/books/content?id=lIPnYGTLZd8C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
 	  },
 	  "language": "en",
-	  "previewLink": "http://books.google.de/books?id=lIPnYGTLZd8C&pg=PT26&dq=intitle:spring+framework&hl=&cd=57&source=gbs_api",
+	  "previewLink": "https://books.google.de/books?id=lIPnYGTLZd8C&pg=PT26&dq=intitle:spring+framework&hl=&cd=57&source=gbs_api",
 	  "infoLink": "https://play.google.com/store/books/details?id=lIPnYGTLZd8C&source=gbs_api",
 	  "canonicalVolumeLink": "https://market.android.com/details?id=book-lIPnYGTLZd8C"
 	},
@@ -3352,11 +3352,11 @@
 	  "allowAnonLogging": false,
 	  "contentVersion": "1.1.1.0.preview.3",
 	  "imageLinks": {
-		"smallThumbnail": "http://books.google.com/books/content?id=YInwCAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
-		"thumbnail": "http://books.google.com/books/content?id=YInwCAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+		"smallThumbnail": "https://books.google.com/books/content?id=YInwCAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+		"thumbnail": "https://books.google.com/books/content?id=YInwCAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
 	  },
 	  "language": "en",
-	  "previewLink": "http://books.google.de/books?id=YInwCAAAQBAJ&printsec=frontcover&dq=intitle:spring+framework&hl=&cd=59&source=gbs_api",
+	  "previewLink": "https://books.google.de/books?id=YInwCAAAQBAJ&printsec=frontcover&dq=intitle:spring+framework&hl=&cd=59&source=gbs_api",
 	  "infoLink": "https://play.google.com/store/books/details?id=YInwCAAAQBAJ&source=gbs_api",
 	  "canonicalVolumeLink": "https://market.android.com/details?id=book-YInwCAAAQBAJ"
 	},
@@ -3427,11 +3427,11 @@
 	  "allowAnonLogging": true,
 	  "contentVersion": "0.3.3.0.preview.3",
 	  "imageLinks": {
-		"smallThumbnail": "http://books.google.com/books/content?id=bvHuCgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
-		"thumbnail": "http://books.google.com/books/content?id=bvHuCgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+		"smallThumbnail": "https://books.google.com/books/content?id=bvHuCgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+		"thumbnail": "https://books.google.com/books/content?id=bvHuCgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
 	  },
 	  "language": "en",
-	  "previewLink": "http://books.google.de/books?id=bvHuCgAAQBAJ&printsec=frontcover&dq=intitle:spring+framework&hl=&cd=60&source=gbs_api",
+	  "previewLink": "https://books.google.de/books?id=bvHuCgAAQBAJ&printsec=frontcover&dq=intitle:spring+framework&hl=&cd=60&source=gbs_api",
 	  "infoLink": "https://play.google.com/store/books/details?id=bvHuCgAAQBAJ&source=gbs_api",
 	  "canonicalVolumeLink": "https://market.android.com/details?id=book-bvHuCgAAQBAJ"
 	},
@@ -3508,11 +3508,11 @@
 	  "allowAnonLogging": true,
 	  "contentVersion": "3.4.4.0.preview.3",
 	  "imageLinks": {
-		"smallThumbnail": "http://books.google.com/books/content?id=DeTO4xbC-eoC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
-		"thumbnail": "http://books.google.com/books/content?id=DeTO4xbC-eoC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+		"smallThumbnail": "https://books.google.com/books/content?id=DeTO4xbC-eoC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+		"thumbnail": "https://books.google.com/books/content?id=DeTO4xbC-eoC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
 	  },
 	  "language": "en",
-	  "previewLink": "http://books.google.de/books?id=DeTO4xbC-eoC&printsec=frontcover&dq=intitle:spring+framework&hl=&cd=61&source=gbs_api",
+	  "previewLink": "https://books.google.de/books?id=DeTO4xbC-eoC&printsec=frontcover&dq=intitle:spring+framework&hl=&cd=61&source=gbs_api",
 	  "infoLink": "https://play.google.com/store/books/details?id=DeTO4xbC-eoC&source=gbs_api",
 	  "canonicalVolumeLink": "https://market.android.com/details?id=book-DeTO4xbC-eoC"
 	},
@@ -3573,11 +3573,11 @@
 	  "allowAnonLogging": true,
 	  "contentVersion": "preview-1.0.0",
 	  "imageLinks": {
-		"smallThumbnail": "http://books.google.com/books/content?id=a2UvBwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
-		"thumbnail": "http://books.google.com/books/content?id=a2UvBwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+		"smallThumbnail": "https://books.google.com/books/content?id=a2UvBwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+		"thumbnail": "https://books.google.com/books/content?id=a2UvBwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
 	  },
 	  "language": "en",
-	  "previewLink": "http://books.google.de/books?id=a2UvBwAAQBAJ&pg=PT6&dq=intitle:spring+framework&hl=&cd=62&source=gbs_api",
+	  "previewLink": "https://books.google.de/books?id=a2UvBwAAQBAJ&pg=PT6&dq=intitle:spring+framework&hl=&cd=62&source=gbs_api",
 	  "infoLink": "https://play.google.com/store/books/details?id=a2UvBwAAQBAJ&source=gbs_api",
 	  "canonicalVolumeLink": "https://market.android.com/details?id=book-a2UvBwAAQBAJ"
 	},
@@ -3647,11 +3647,11 @@
 	  "allowAnonLogging": true,
 	  "contentVersion": "2.3.3.0.preview.3",
 	  "imageLinks": {
-		"smallThumbnail": "http://books.google.com/books/content?id=QjmkjzN6foQC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
-		"thumbnail": "http://books.google.com/books/content?id=QjmkjzN6foQC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+		"smallThumbnail": "https://books.google.com/books/content?id=QjmkjzN6foQC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+		"thumbnail": "https://books.google.com/books/content?id=QjmkjzN6foQC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
 	  },
 	  "language": "en",
-	  "previewLink": "http://books.google.de/books?id=QjmkjzN6foQC&printsec=frontcover&dq=intitle:spring+framework&hl=&cd=63&source=gbs_api",
+	  "previewLink": "https://books.google.de/books?id=QjmkjzN6foQC&printsec=frontcover&dq=intitle:spring+framework&hl=&cd=63&source=gbs_api",
 	  "infoLink": "https://play.google.com/store/books/details?id=QjmkjzN6foQC&source=gbs_api",
 	  "canonicalVolumeLink": "https://market.android.com/details?id=book-QjmkjzN6foQC"
 	},
@@ -3721,11 +3721,11 @@
 	  "allowAnonLogging": true,
 	  "contentVersion": "1.1.1.0.preview.3",
 	  "imageLinks": {
-		"smallThumbnail": "http://books.google.com/books/content?id=pwNwDQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
-		"thumbnail": "http://books.google.com/books/content?id=pwNwDQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+		"smallThumbnail": "https://books.google.com/books/content?id=pwNwDQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+		"thumbnail": "https://books.google.com/books/content?id=pwNwDQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
 	  },
 	  "language": "en",
-	  "previewLink": "http://books.google.de/books?id=pwNwDQAAQBAJ&printsec=frontcover&dq=intitle:spring+framework&hl=&cd=64&source=gbs_api",
+	  "previewLink": "https://books.google.de/books?id=pwNwDQAAQBAJ&printsec=frontcover&dq=intitle:spring+framework&hl=&cd=64&source=gbs_api",
 	  "infoLink": "https://play.google.com/store/books/details?id=pwNwDQAAQBAJ&source=gbs_api",
 	  "canonicalVolumeLink": "https://market.android.com/details?id=book-pwNwDQAAQBAJ"
 	},
@@ -3796,13 +3796,13 @@
 	  "allowAnonLogging": false,
 	  "contentVersion": "1.1.1.0.preview.3",
 	  "imageLinks": {
-		"smallThumbnail": "http://books.google.com/books/content?id=O1LzCwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
-		"thumbnail": "http://books.google.com/books/content?id=O1LzCwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+		"smallThumbnail": "https://books.google.com/books/content?id=O1LzCwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+		"thumbnail": "https://books.google.com/books/content?id=O1LzCwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
 	  },
 	  "language": "en",
-	  "previewLink": "http://books.google.de/books?id=O1LzCwAAQBAJ&printsec=frontcover&dq=intitle:spring+framework&hl=&cd=65&source=gbs_api",
-	  "infoLink": "http://books.google.de/books?id=O1LzCwAAQBAJ&dq=intitle:spring+framework&hl=&source=gbs_api",
-	  "canonicalVolumeLink": "http://books.google.de/books/about/Spring_MVC_A_Tutorial_Second_Edition.html?hl=&id=O1LzCwAAQBAJ"
+	  "previewLink": "https://books.google.de/books?id=O1LzCwAAQBAJ&printsec=frontcover&dq=intitle:spring+framework&hl=&cd=65&source=gbs_api",
+	  "infoLink": "https://books.google.de/books?id=O1LzCwAAQBAJ&dq=intitle:spring+framework&hl=&source=gbs_api",
+	  "canonicalVolumeLink": "https://books.google.de/books/about/Spring_MVC_A_Tutorial_Second_Edition.html?hl=&id=O1LzCwAAQBAJ"
 	},
 	"saleInfo": {
 	  "country": "DE",
@@ -3848,11 +3848,11 @@
 	  "allowAnonLogging": true,
 	  "contentVersion": "1.6.6.0.preview.3",
 	  "imageLinks": {
-		"smallThumbnail": "http://books.google.com/books/content?id=2GInCgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
-		"thumbnail": "http://books.google.com/books/content?id=2GInCgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+		"smallThumbnail": "https://books.google.com/books/content?id=2GInCgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+		"thumbnail": "https://books.google.com/books/content?id=2GInCgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
 	  },
 	  "language": "en",
-	  "previewLink": "http://books.google.de/books?id=2GInCgAAQBAJ&printsec=frontcover&dq=intitle:spring+framework&hl=&cd=66&source=gbs_api",
+	  "previewLink": "https://books.google.de/books?id=2GInCgAAQBAJ&printsec=frontcover&dq=intitle:spring+framework&hl=&cd=66&source=gbs_api",
 	  "infoLink": "https://play.google.com/store/books/details?id=2GInCgAAQBAJ&source=gbs_api",
 	  "canonicalVolumeLink": "https://market.android.com/details?id=book-2GInCgAAQBAJ"
 	},
@@ -3922,11 +3922,11 @@
 	  "allowAnonLogging": true,
 	  "contentVersion": "2.2.2.0.preview.3",
 	  "imageLinks": {
-		"smallThumbnail": "http://books.google.com/books/content?id=1dpOCwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
-		"thumbnail": "http://books.google.com/books/content?id=1dpOCwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+		"smallThumbnail": "https://books.google.com/books/content?id=1dpOCwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+		"thumbnail": "https://books.google.com/books/content?id=1dpOCwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
 	  },
 	  "language": "en",
-	  "previewLink": "http://books.google.de/books?id=1dpOCwAAQBAJ&printsec=frontcover&dq=intitle:spring+framework&hl=&cd=67&source=gbs_api",
+	  "previewLink": "https://books.google.de/books?id=1dpOCwAAQBAJ&printsec=frontcover&dq=intitle:spring+framework&hl=&cd=67&source=gbs_api",
 	  "infoLink": "https://play.google.com/store/books/details?id=1dpOCwAAQBAJ&source=gbs_api",
 	  "canonicalVolumeLink": "https://market.android.com/details?id=book-1dpOCwAAQBAJ"
 	},
@@ -3996,11 +3996,11 @@
 	  "allowAnonLogging": true,
 	  "contentVersion": "1.1.1.0.preview.3",
 	  "imageLinks": {
-		"smallThumbnail": "http://books.google.com/books/content?id=RX773LKyeUIC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
-		"thumbnail": "http://books.google.com/books/content?id=RX773LKyeUIC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+		"smallThumbnail": "https://books.google.com/books/content?id=RX773LKyeUIC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+		"thumbnail": "https://books.google.com/books/content?id=RX773LKyeUIC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
 	  },
 	  "language": "en",
-	  "previewLink": "http://books.google.de/books?id=RX773LKyeUIC&printsec=frontcover&dq=intitle:spring+framework&hl=&cd=68&source=gbs_api",
+	  "previewLink": "https://books.google.de/books?id=RX773LKyeUIC&printsec=frontcover&dq=intitle:spring+framework&hl=&cd=68&source=gbs_api",
 	  "infoLink": "https://play.google.com/store/books/details?id=RX773LKyeUIC&source=gbs_api",
 	  "canonicalVolumeLink": "https://market.android.com/details?id=book-RX773LKyeUIC"
 	},
@@ -4073,11 +4073,11 @@
 	  "allowAnonLogging": false,
 	  "contentVersion": "1.2.1.0.preview.1",
 	  "imageLinks": {
-		"smallThumbnail": "http://books.google.com/books/content?id=egpXAmFg17kC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
-		"thumbnail": "http://books.google.com/books/content?id=egpXAmFg17kC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+		"smallThumbnail": "https://books.google.com/books/content?id=egpXAmFg17kC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+		"thumbnail": "https://books.google.com/books/content?id=egpXAmFg17kC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
 	  },
 	  "language": "en",
-	  "previewLink": "http://books.google.de/books?id=egpXAmFg17kC&pg=PA25&dq=intitle:spring+framework&hl=&cd=75&source=gbs_api",
+	  "previewLink": "https://books.google.de/books?id=egpXAmFg17kC&pg=PA25&dq=intitle:spring+framework&hl=&cd=75&source=gbs_api",
 	  "infoLink": "https://play.google.com/store/books/details?id=egpXAmFg17kC&source=gbs_api",
 	  "canonicalVolumeLink": "https://market.android.com/details?id=book-egpXAmFg17kC"
 	},
@@ -4147,11 +4147,11 @@
 	  "allowAnonLogging": true,
 	  "contentVersion": "2.2.2.0.preview.3",
 	  "imageLinks": {
-		"smallThumbnail": "http://books.google.com/books/content?id=SOg0DAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
-		"thumbnail": "http://books.google.com/books/content?id=SOg0DAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+		"smallThumbnail": "https://books.google.com/books/content?id=SOg0DAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+		"thumbnail": "https://books.google.com/books/content?id=SOg0DAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
 	  },
 	  "language": "en",
-	  "previewLink": "http://books.google.de/books?id=SOg0DAAAQBAJ&printsec=frontcover&dq=intitle:spring+framework&hl=&cd=101&source=gbs_api",
+	  "previewLink": "https://books.google.de/books?id=SOg0DAAAQBAJ&printsec=frontcover&dq=intitle:spring+framework&hl=&cd=101&source=gbs_api",
 	  "infoLink": "https://play.google.com/store/books/details?id=SOg0DAAAQBAJ&source=gbs_api",
 	  "canonicalVolumeLink": "https://market.android.com/details?id=book-SOg0DAAAQBAJ"
 	},
@@ -4221,11 +4221,11 @@
 	  "allowAnonLogging": true,
 	  "contentVersion": "1.1.1.0.preview.3",
 	  "imageLinks": {
-		"smallThumbnail": "http://books.google.com/books/content?id=wveRRP1pf5cC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
-		"thumbnail": "http://books.google.com/books/content?id=wveRRP1pf5cC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+		"smallThumbnail": "https://books.google.com/books/content?id=wveRRP1pf5cC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+		"thumbnail": "https://books.google.com/books/content?id=wveRRP1pf5cC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
 	  },
 	  "language": "en",
-	  "previewLink": "http://books.google.de/books?id=wveRRP1pf5cC&printsec=frontcover&dq=intitle:spring+framework&hl=&cd=102&source=gbs_api",
+	  "previewLink": "https://books.google.de/books?id=wveRRP1pf5cC&printsec=frontcover&dq=intitle:spring+framework&hl=&cd=102&source=gbs_api",
 	  "infoLink": "https://play.google.com/store/books/details?id=wveRRP1pf5cC&source=gbs_api",
 	  "canonicalVolumeLink": "https://market.android.com/details?id=book-wveRRP1pf5cC"
 	},
@@ -4295,11 +4295,11 @@
 	  "allowAnonLogging": false,
 	  "contentVersion": "2.3.3.0.preview.3",
 	  "imageLinks": {
-		"smallThumbnail": "http://books.google.com/books/content?id=HaLayPuGBTYC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
-		"thumbnail": "http://books.google.com/books/content?id=HaLayPuGBTYC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+		"smallThumbnail": "https://books.google.com/books/content?id=HaLayPuGBTYC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+		"thumbnail": "https://books.google.com/books/content?id=HaLayPuGBTYC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
 	  },
 	  "language": "en",
-	  "previewLink": "http://books.google.de/books?id=HaLayPuGBTYC&printsec=frontcover&dq=intitle:spring+framework&hl=&cd=103&source=gbs_api",
+	  "previewLink": "https://books.google.de/books?id=HaLayPuGBTYC&printsec=frontcover&dq=intitle:spring+framework&hl=&cd=103&source=gbs_api",
 	  "infoLink": "https://play.google.com/store/books/details?id=HaLayPuGBTYC&source=gbs_api",
 	  "canonicalVolumeLink": "https://market.android.com/details?id=book-HaLayPuGBTYC"
 	},
@@ -4365,13 +4365,13 @@
 	  "allowAnonLogging": false,
 	  "contentVersion": "preview-1.0.0",
 	  "imageLinks": {
-		"smallThumbnail": "http://books.google.com/books/content?id=NKowvgAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
-		"thumbnail": "http://books.google.com/books/content?id=NKowvgAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+		"smallThumbnail": "https://books.google.com/books/content?id=NKowvgAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+		"thumbnail": "https://books.google.com/books/content?id=NKowvgAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
 	  },
 	  "language": "en",
-	  "previewLink": "http://books.google.de/books?id=NKowvgAACAAJ&dq=intitle:spring+framework&hl=&cd=104&source=gbs_api",
-	  "infoLink": "http://books.google.de/books?id=NKowvgAACAAJ&dq=intitle:spring+framework&hl=&source=gbs_api",
-	  "canonicalVolumeLink": "http://books.google.de/books/about/Learning_Spring_5_0.html?hl=&id=NKowvgAACAAJ"
+	  "previewLink": "https://books.google.de/books?id=NKowvgAACAAJ&dq=intitle:spring+framework&hl=&cd=104&source=gbs_api",
+	  "infoLink": "https://books.google.de/books?id=NKowvgAACAAJ&dq=intitle:spring+framework&hl=&source=gbs_api",
+	  "canonicalVolumeLink": "https://books.google.de/books/about/Learning_Spring_5_0.html?hl=&id=NKowvgAACAAJ"
 	},
 	"saleInfo": {
 	  "country": "DE",
@@ -4417,13 +4417,13 @@
 	  "allowAnonLogging": false,
 	  "contentVersion": "1.1.1.0.preview.3",
 	  "imageLinks": {
-		"smallThumbnail": "http://books.google.com/books/content?id=OTvRAQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
-		"thumbnail": "http://books.google.com/books/content?id=OTvRAQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+		"smallThumbnail": "https://books.google.com/books/content?id=OTvRAQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+		"thumbnail": "https://books.google.com/books/content?id=OTvRAQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
 	  },
 	  "language": "en",
-	  "previewLink": "http://books.google.de/books?id=OTvRAQAAQBAJ&printsec=frontcover&dq=intitle:spring+framework&hl=&cd=105&source=gbs_api",
-	  "infoLink": "http://books.google.de/books?id=OTvRAQAAQBAJ&dq=intitle:spring+framework&hl=&source=gbs_api",
-	  "canonicalVolumeLink": "http://books.google.de/books/about/Practical_Spring_LDAP.html?hl=&id=OTvRAQAAQBAJ"
+	  "previewLink": "https://books.google.de/books?id=OTvRAQAAQBAJ&printsec=frontcover&dq=intitle:spring+framework&hl=&cd=105&source=gbs_api",
+	  "infoLink": "https://books.google.de/books?id=OTvRAQAAQBAJ&dq=intitle:spring+framework&hl=&source=gbs_api",
+	  "canonicalVolumeLink": "https://books.google.de/books/about/Practical_Spring_LDAP.html?hl=&id=OTvRAQAAQBAJ"
 	},
 	"saleInfo": {
 	  "country": "DE",
@@ -4469,13 +4469,13 @@
 	  "allowAnonLogging": false,
 	  "contentVersion": "preview-1.0.0",
 	  "imageLinks": {
-		"smallThumbnail": "http://books.google.com/books/content?id=UMuaMQEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
-		"thumbnail": "http://books.google.com/books/content?id=UMuaMQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+		"smallThumbnail": "https://books.google.com/books/content?id=UMuaMQEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+		"thumbnail": "https://books.google.com/books/content?id=UMuaMQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
 	  },
 	  "language": "en",
-	  "previewLink": "http://books.google.de/books?id=UMuaMQEACAAJ&dq=intitle:spring+framework&hl=&cd=106&source=gbs_api",
-	  "infoLink": "http://books.google.de/books?id=UMuaMQEACAAJ&dq=intitle:spring+framework&hl=&source=gbs_api",
-	  "canonicalVolumeLink": "http://books.google.de/books/about/Spring_3_for_Beginners.html?hl=&id=UMuaMQEACAAJ"
+	  "previewLink": "https://books.google.de/books?id=UMuaMQEACAAJ&dq=intitle:spring+framework&hl=&cd=106&source=gbs_api",
+	  "infoLink": "https://books.google.de/books?id=UMuaMQEACAAJ&dq=intitle:spring+framework&hl=&source=gbs_api",
+	  "canonicalVolumeLink": "https://books.google.de/books/about/Spring_3_for_Beginners.html?hl=&id=UMuaMQEACAAJ"
 	},
 	"saleInfo": {
 	  "country": "DE",
@@ -4520,13 +4520,13 @@
 	  "allowAnonLogging": false,
 	  "contentVersion": "preview-1.0.0",
 	  "imageLinks": {
-		"smallThumbnail": "http://books.google.com/books/content?id=xGhY-N2c1R8C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
-		"thumbnail": "http://books.google.com/books/content?id=xGhY-N2c1R8C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+		"smallThumbnail": "https://books.google.com/books/content?id=xGhY-N2c1R8C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+		"thumbnail": "https://books.google.com/books/content?id=xGhY-N2c1R8C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
 	  },
 	  "language": "fr",
-	  "previewLink": "http://books.google.de/books?id=xGhY-N2c1R8C&pg=PA293&dq=intitle:spring+framework&hl=&cd=107&source=gbs_api",
-	  "infoLink": "http://books.google.de/books?id=xGhY-N2c1R8C&dq=intitle:spring+framework&hl=&source=gbs_api",
-	  "canonicalVolumeLink": "http://books.google.de/books/about/Spring_par_l_exemple.html?hl=&id=xGhY-N2c1R8C"
+	  "previewLink": "https://books.google.de/books?id=xGhY-N2c1R8C&pg=PA293&dq=intitle:spring+framework&hl=&cd=107&source=gbs_api",
+	  "infoLink": "https://books.google.de/books?id=xGhY-N2c1R8C&dq=intitle:spring+framework&hl=&source=gbs_api",
+	  "canonicalVolumeLink": "https://books.google.de/books/about/Spring_par_l_exemple.html?hl=&id=xGhY-N2c1R8C"
 	},
 	"saleInfo": {
 	  "country": "DE",
@@ -4571,11 +4571,11 @@
 	  "allowAnonLogging": true,
 	  "contentVersion": "preview-1.0.0",
 	  "imageLinks": {
-		"smallThumbnail": "http://books.google.com/books/content?id=72OlhKIztdsC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
-		"thumbnail": "http://books.google.com/books/content?id=72OlhKIztdsC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+		"smallThumbnail": "https://books.google.com/books/content?id=72OlhKIztdsC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+		"thumbnail": "https://books.google.com/books/content?id=72OlhKIztdsC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
 	  },
 	  "language": "en",
-	  "previewLink": "http://books.google.de/books?id=72OlhKIztdsC&printsec=frontcover&dq=intitle:spring+framework&hl=&cd=108&source=gbs_api",
+	  "previewLink": "https://books.google.de/books?id=72OlhKIztdsC&printsec=frontcover&dq=intitle:spring+framework&hl=&cd=108&source=gbs_api",
 	  "infoLink": "https://play.google.com/store/books/details?id=72OlhKIztdsC&source=gbs_api",
 	  "canonicalVolumeLink": "https://market.android.com/details?id=book-72OlhKIztdsC"
 	},
@@ -4646,11 +4646,11 @@
 	  "allowAnonLogging": false,
 	  "contentVersion": "preview-1.0.0",
 	  "imageLinks": {
-		"smallThumbnail": "http://books.google.com/books/content?id=CC_vCZmF6MAC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
-		"thumbnail": "http://books.google.com/books/content?id=CC_vCZmF6MAC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+		"smallThumbnail": "https://books.google.com/books/content?id=CC_vCZmF6MAC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+		"thumbnail": "https://books.google.com/books/content?id=CC_vCZmF6MAC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
 	  },
 	  "language": "en",
-	  "previewLink": "http://books.google.de/books?id=CC_vCZmF6MAC&printsec=frontcover&dq=intitle:spring+framework&hl=&cd=109&source=gbs_api",
+	  "previewLink": "https://books.google.de/books?id=CC_vCZmF6MAC&printsec=frontcover&dq=intitle:spring+framework&hl=&cd=109&source=gbs_api",
 	  "infoLink": "https://play.google.com/store/books/details?id=CC_vCZmF6MAC&source=gbs_api",
 	  "canonicalVolumeLink": "https://market.android.com/details?id=book-CC_vCZmF6MAC"
 	},
@@ -4720,13 +4720,13 @@
 	  "allowAnonLogging": false,
 	  "contentVersion": "preview-1.0.0",
 	  "imageLinks": {
-		"smallThumbnail": "http://books.google.com/books/content?id=cfa6url4M4IC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
-		"thumbnail": "http://books.google.com/books/content?id=cfa6url4M4IC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+		"smallThumbnail": "https://books.google.com/books/content?id=cfa6url4M4IC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+		"thumbnail": "https://books.google.com/books/content?id=cfa6url4M4IC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
 	  },
 	  "language": "en",
-	  "previewLink": "http://books.google.de/books?id=cfa6url4M4IC&printsec=frontcover&dq=intitle:spring+framework&hl=&cd=110&source=gbs_api",
-	  "infoLink": "http://books.google.de/books?id=cfa6url4M4IC&dq=intitle:spring+framework&hl=&source=gbs_api",
-	  "canonicalVolumeLink": "http://books.google.de/books/about/Pro_Flex_on_Spring.html?hl=&id=cfa6url4M4IC"
+	  "previewLink": "https://books.google.de/books?id=cfa6url4M4IC&printsec=frontcover&dq=intitle:spring+framework&hl=&cd=110&source=gbs_api",
+	  "infoLink": "https://books.google.de/books?id=cfa6url4M4IC&dq=intitle:spring+framework&hl=&source=gbs_api",
+	  "canonicalVolumeLink": "https://books.google.de/books/about/Pro_Flex_on_Spring.html?hl=&id=cfa6url4M4IC"
 	},
 	"saleInfo": {
 	  "country": "DE",
@@ -4776,13 +4776,13 @@
 	  "allowAnonLogging": false,
 	  "contentVersion": "preview-1.0.0",
 	  "imageLinks": {
-		"smallThumbnail": "http://books.google.com/books/content?id=SN1guQAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
-		"thumbnail": "http://books.google.com/books/content?id=SN1guQAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+		"smallThumbnail": "https://books.google.com/books/content?id=SN1guQAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+		"thumbnail": "https://books.google.com/books/content?id=SN1guQAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
 	  },
 	  "language": "en",
-	  "previewLink": "http://books.google.de/books?id=SN1guQAACAAJ&dq=intitle:spring+framework&hl=&cd=111&source=gbs_api",
-	  "infoLink": "http://books.google.de/books?id=SN1guQAACAAJ&dq=intitle:spring+framework&hl=&source=gbs_api",
-	  "canonicalVolumeLink": "http://books.google.de/books/about/Spring_Batch_in_Action.html?hl=&id=SN1guQAACAAJ"
+	  "previewLink": "https://books.google.de/books?id=SN1guQAACAAJ&dq=intitle:spring+framework&hl=&cd=111&source=gbs_api",
+	  "infoLink": "https://books.google.de/books?id=SN1guQAACAAJ&dq=intitle:spring+framework&hl=&source=gbs_api",
+	  "canonicalVolumeLink": "https://books.google.de/books/about/Spring_Batch_in_Action.html?hl=&id=SN1guQAACAAJ"
 	},
 	"saleInfo": {
 	  "country": "DE",
@@ -4827,13 +4827,13 @@
 	  "allowAnonLogging": false,
 	  "contentVersion": "preview-1.0.0",
 	  "imageLinks": {
-		"smallThumbnail": "http://books.google.com/books/content?id=1kHsnAEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
-		"thumbnail": "http://books.google.com/books/content?id=1kHsnAEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+		"smallThumbnail": "https://books.google.com/books/content?id=1kHsnAEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+		"thumbnail": "https://books.google.com/books/content?id=1kHsnAEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
 	  },
 	  "language": "en",
-	  "previewLink": "http://books.google.de/books?id=1kHsnAEACAAJ&dq=intitle:spring+framework&hl=&cd=112&source=gbs_api",
-	  "infoLink": "http://books.google.de/books?id=1kHsnAEACAAJ&dq=intitle:spring+framework&hl=&source=gbs_api",
-	  "canonicalVolumeLink": "http://books.google.de/books/about/Spring_in_Action.html?hl=&id=1kHsnAEACAAJ"
+	  "previewLink": "https://books.google.de/books?id=1kHsnAEACAAJ&dq=intitle:spring+framework&hl=&cd=112&source=gbs_api",
+	  "infoLink": "https://books.google.de/books?id=1kHsnAEACAAJ&dq=intitle:spring+framework&hl=&source=gbs_api",
+	  "canonicalVolumeLink": "https://books.google.de/books/about/Spring_in_Action.html?hl=&id=1kHsnAEACAAJ"
 	},
 	"saleInfo": {
 	  "country": "DE",
@@ -4874,13 +4874,13 @@
 	  "allowAnonLogging": false,
 	  "contentVersion": "preview-1.0.0",
 	  "imageLinks": {
-		"smallThumbnail": "http://books.google.com/books/content?id=YsPRygAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
-		"thumbnail": "http://books.google.com/books/content?id=YsPRygAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+		"smallThumbnail": "https://books.google.com/books/content?id=YsPRygAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+		"thumbnail": "https://books.google.com/books/content?id=YsPRygAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
 	  },
 	  "language": "en",
-	  "previewLink": "http://books.google.de/books?id=YsPRygAACAAJ&dq=intitle:spring+framework&hl=&cd=113&source=gbs_api",
-	  "infoLink": "http://books.google.de/books?id=YsPRygAACAAJ&dq=intitle:spring+framework&hl=&source=gbs_api",
-	  "canonicalVolumeLink": "http://books.google.de/books/about/SPRING_3_0_BLACK_BOOK_With_CD.html?hl=&id=YsPRygAACAAJ"
+	  "previewLink": "https://books.google.de/books?id=YsPRygAACAAJ&dq=intitle:spring+framework&hl=&cd=113&source=gbs_api",
+	  "infoLink": "https://books.google.de/books?id=YsPRygAACAAJ&dq=intitle:spring+framework&hl=&source=gbs_api",
+	  "canonicalVolumeLink": "https://books.google.de/books/about/SPRING_3_0_BLACK_BOOK_With_CD.html?hl=&id=YsPRygAACAAJ"
 	},
 	"saleInfo": {
 	  "country": "DE",
@@ -4930,13 +4930,13 @@
 	  "allowAnonLogging": false,
 	  "contentVersion": "preview-1.0.0",
 	  "imageLinks": {
-		"smallThumbnail": "http://books.google.com/books/content?id=H2CmSgAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
-		"thumbnail": "http://books.google.com/books/content?id=H2CmSgAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+		"smallThumbnail": "https://books.google.com/books/content?id=H2CmSgAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+		"thumbnail": "https://books.google.com/books/content?id=H2CmSgAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
 	  },
 	  "language": "en",
-	  "previewLink": "http://books.google.de/books?id=H2CmSgAACAAJ&dq=intitle:spring+framework&hl=&cd=115&source=gbs_api",
-	  "infoLink": "http://books.google.de/books?id=H2CmSgAACAAJ&dq=intitle:spring+framework&hl=&source=gbs_api",
-	  "canonicalVolumeLink": "http://books.google.de/books/about/Spring_Integration_in_Action.html?hl=&id=H2CmSgAACAAJ"
+	  "previewLink": "https://books.google.de/books?id=H2CmSgAACAAJ&dq=intitle:spring+framework&hl=&cd=115&source=gbs_api",
+	  "infoLink": "https://books.google.de/books?id=H2CmSgAACAAJ&dq=intitle:spring+framework&hl=&source=gbs_api",
+	  "canonicalVolumeLink": "https://books.google.de/books/about/Spring_Integration_in_Action.html?hl=&id=H2CmSgAACAAJ"
 	},
 	"saleInfo": {
 	  "country": "DE",
@@ -4982,11 +4982,11 @@
 	  "allowAnonLogging": false,
 	  "contentVersion": "2.3.3.0.preview.3",
 	  "imageLinks": {
-		"smallThumbnail": "http://books.google.com/books/content?id=sIHLIVMN8wEC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
-		"thumbnail": "http://books.google.com/books/content?id=sIHLIVMN8wEC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+		"smallThumbnail": "https://books.google.com/books/content?id=sIHLIVMN8wEC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+		"thumbnail": "https://books.google.com/books/content?id=sIHLIVMN8wEC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
 	  },
 	  "language": "en",
-	  "previewLink": "http://books.google.de/books?id=sIHLIVMN8wEC&printsec=frontcover&dq=intitle:spring+framework&hl=&cd=117&source=gbs_api",
+	  "previewLink": "https://books.google.de/books?id=sIHLIVMN8wEC&printsec=frontcover&dq=intitle:spring+framework&hl=&cd=117&source=gbs_api",
 	  "infoLink": "https://play.google.com/store/books/details?id=sIHLIVMN8wEC&source=gbs_api",
 	  "canonicalVolumeLink": "https://market.android.com/details?id=book-sIHLIVMN8wEC"
 	},
@@ -5052,13 +5052,13 @@
 	  "allowAnonLogging": false,
 	  "contentVersion": "preview-1.0.0",
 	  "imageLinks": {
-		"smallThumbnail": "http://books.google.com/books/content?id=VeUeMQAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
-		"thumbnail": "http://books.google.com/books/content?id=VeUeMQAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+		"smallThumbnail": "https://books.google.com/books/content?id=VeUeMQAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+		"thumbnail": "https://books.google.com/books/content?id=VeUeMQAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
 	  },
 	  "language": "en",
-	  "previewLink": "http://books.google.de/books?id=VeUeMQAACAAJ&dq=intitle:spring+framework&hl=&cd=118&source=gbs_api",
-	  "infoLink": "http://books.google.de/books?id=VeUeMQAACAAJ&dq=intitle:spring+framework&hl=&source=gbs_api",
-	  "canonicalVolumeLink": "http://books.google.de/books/about/Mastering_Spring.html?hl=&id=VeUeMQAACAAJ"
+	  "previewLink": "https://books.google.de/books?id=VeUeMQAACAAJ&dq=intitle:spring+framework&hl=&cd=118&source=gbs_api",
+	  "infoLink": "https://books.google.de/books?id=VeUeMQAACAAJ&dq=intitle:spring+framework&hl=&source=gbs_api",
+	  "canonicalVolumeLink": "https://books.google.de/books/about/Mastering_Spring.html?hl=&id=VeUeMQAACAAJ"
 	},
 	"saleInfo": {
 	  "country": "DE",
@@ -5099,13 +5099,13 @@
 	  "allowAnonLogging": false,
 	  "contentVersion": "preview-1.0.0",
 	  "imageLinks": {
-		"smallThumbnail": "http://books.google.com/books/content?id=uVRGvgAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
-		"thumbnail": "http://books.google.com/books/content?id=uVRGvgAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+		"smallThumbnail": "https://books.google.com/books/content?id=uVRGvgAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+		"thumbnail": "https://books.google.com/books/content?id=uVRGvgAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
 	  },
 	  "language": "en",
-	  "previewLink": "http://books.google.de/books?id=uVRGvgAACAAJ&dq=intitle:spring+framework&hl=&cd=119&source=gbs_api",
-	  "infoLink": "http://books.google.de/books?id=uVRGvgAACAAJ&dq=intitle:spring+framework&hl=&source=gbs_api",
-	  "canonicalVolumeLink": "http://books.google.de/books/about/Learning_Spring_Boot_Second_Edition.html?hl=&id=uVRGvgAACAAJ"
+	  "previewLink": "https://books.google.de/books?id=uVRGvgAACAAJ&dq=intitle:spring+framework&hl=&cd=119&source=gbs_api",
+	  "infoLink": "https://books.google.de/books?id=uVRGvgAACAAJ&dq=intitle:spring+framework&hl=&source=gbs_api",
+	  "canonicalVolumeLink": "https://books.google.de/books/about/Learning_Spring_Boot_Second_Edition.html?hl=&id=uVRGvgAACAAJ"
 	},
 	"saleInfo": {
 	  "country": "DE",
@@ -5151,9 +5151,9 @@
 	  "allowAnonLogging": false,
 	  "contentVersion": "preview-1.0.0",
 	  "language": "en",
-	  "previewLink": "http://books.google.de/books?id=Km16kgEACAAJ&dq=intitle:spring+framework&hl=&cd=120&source=gbs_api",
-	  "infoLink": "http://books.google.de/books?id=Km16kgEACAAJ&dq=intitle:spring+framework&hl=&source=gbs_api",
-	  "canonicalVolumeLink": "http://books.google.de/books/about/The_Definitive_Guide_to_Spring_Web_Servi.html?hl=&id=Km16kgEACAAJ"
+	  "previewLink": "https://books.google.de/books?id=Km16kgEACAAJ&dq=intitle:spring+framework&hl=&cd=120&source=gbs_api",
+	  "infoLink": "https://books.google.de/books?id=Km16kgEACAAJ&dq=intitle:spring+framework&hl=&source=gbs_api",
+	  "canonicalVolumeLink": "https://books.google.de/books/about/The_Definitive_Guide_to_Spring_Web_Servi.html?hl=&id=Km16kgEACAAJ"
 	},
 	"saleInfo": {
 	  "country": "DE",
@@ -5200,9 +5200,9 @@
 	  "allowAnonLogging": false,
 	  "contentVersion": "preview-1.0.0",
 	  "language": "en",
-	  "previewLink": "http://books.google.de/books?id=aKi4kQEACAAJ&dq=intitle:spring+framework&hl=&cd=121&source=gbs_api",
-	  "infoLink": "http://books.google.de/books?id=aKi4kQEACAAJ&dq=intitle:spring+framework&hl=&source=gbs_api",
-	  "canonicalVolumeLink": "http://books.google.de/books/about/The_Definitive_Guide_to_Spring_for_net.html?hl=&id=aKi4kQEACAAJ"
+	  "previewLink": "https://books.google.de/books?id=aKi4kQEACAAJ&dq=intitle:spring+framework&hl=&cd=121&source=gbs_api",
+	  "infoLink": "https://books.google.de/books?id=aKi4kQEACAAJ&dq=intitle:spring+framework&hl=&source=gbs_api",
+	  "canonicalVolumeLink": "https://books.google.de/books/about/The_Definitive_Guide_to_Spring_for_net.html?hl=&id=aKi4kQEACAAJ"
 	},
 	"saleInfo": {
 	  "country": "DE",
@@ -5248,13 +5248,13 @@
 	  "allowAnonLogging": true,
 	  "contentVersion": "1.1.1.0.preview.1",
 	  "imageLinks": {
-		"smallThumbnail": "http://books.google.com/books/content?id=7SjRAAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
-		"thumbnail": "http://books.google.com/books/content?id=7SjRAAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+		"smallThumbnail": "https://books.google.com/books/content?id=7SjRAAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+		"thumbnail": "https://books.google.com/books/content?id=7SjRAAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
 	  },
 	  "language": "ru",
-	  "previewLink": "http://books.google.de/books?id=7SjRAAAAQBAJ&pg=PA321&dq=intitle:spring+framework&hl=&cd=122&source=gbs_api",
-	  "infoLink": "http://books.google.de/books?id=7SjRAAAAQBAJ&dq=intitle:spring+framework&hl=&source=gbs_api",
-	  "canonicalVolumeLink": "http://books.google.de/books/about/Spring_%D0%B2_%D0%B4%D0%B5%D0%B9%D1%81%D1%82%D0%B2%D0%B8%D0%B8.html?hl=&id=7SjRAAAAQBAJ"
+	  "previewLink": "https://books.google.de/books?id=7SjRAAAAQBAJ&pg=PA321&dq=intitle:spring+framework&hl=&cd=122&source=gbs_api",
+	  "infoLink": "https://books.google.de/books?id=7SjRAAAAQBAJ&dq=intitle:spring+framework&hl=&source=gbs_api",
+	  "canonicalVolumeLink": "https://books.google.de/books/about/Spring_%D0%B2_%D0%B4%D0%B5%D0%B9%D1%81%D1%82%D0%B2%D0%B8%D0%B8.html?hl=&id=7SjRAAAAQBAJ"
 	},
 	"saleInfo": {
 	  "country": "DE",
@@ -5299,11 +5299,11 @@
 	  "allowAnonLogging": false,
 	  "contentVersion": "1.1.1.0.preview.3",
 	  "imageLinks": {
-		"smallThumbnail": "http://books.google.com/books/content?id=egQcDAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
-		"thumbnail": "http://books.google.com/books/content?id=egQcDAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+		"smallThumbnail": "https://books.google.com/books/content?id=egQcDAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+		"thumbnail": "https://books.google.com/books/content?id=egQcDAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
 	  },
 	  "language": "en",
-	  "previewLink": "http://books.google.de/books?id=egQcDAAAQBAJ&printsec=frontcover&dq=intitle:spring+framework&hl=&cd=123&source=gbs_api",
+	  "previewLink": "https://books.google.de/books?id=egQcDAAAQBAJ&printsec=frontcover&dq=intitle:spring+framework&hl=&cd=123&source=gbs_api",
 	  "infoLink": "https://play.google.com/store/books/details?id=egQcDAAAQBAJ&source=gbs_api",
 	  "canonicalVolumeLink": "https://market.android.com/details?id=book-egQcDAAAQBAJ"
 	},
@@ -5370,13 +5370,13 @@
 	  "allowAnonLogging": false,
 	  "contentVersion": "preview-1.0.0",
 	  "imageLinks": {
-		"smallThumbnail": "http://books.google.com/books/content?id=9CiPrgEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
-		"thumbnail": "http://books.google.com/books/content?id=9CiPrgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+		"smallThumbnail": "https://books.google.com/books/content?id=9CiPrgEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+		"thumbnail": "https://books.google.com/books/content?id=9CiPrgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
 	  },
 	  "language": "en",
-	  "previewLink": "http://books.google.de/books?id=9CiPrgEACAAJ&dq=intitle:spring+framework&hl=&cd=124&source=gbs_api",
-	  "infoLink": "http://books.google.de/books?id=9CiPrgEACAAJ&dq=intitle:spring+framework&hl=&source=gbs_api",
-	  "canonicalVolumeLink": "http://books.google.de/books/about/Spring_Boot_in_Action.html?hl=&id=9CiPrgEACAAJ"
+	  "previewLink": "https://books.google.de/books?id=9CiPrgEACAAJ&dq=intitle:spring+framework&hl=&cd=124&source=gbs_api",
+	  "infoLink": "https://books.google.de/books?id=9CiPrgEACAAJ&dq=intitle:spring+framework&hl=&source=gbs_api",
+	  "canonicalVolumeLink": "https://books.google.de/books/about/Spring_Boot_in_Action.html?hl=&id=9CiPrgEACAAJ"
 	},
 	"saleInfo": {
 	  "country": "DE",
@@ -5422,13 +5422,13 @@
 	  "allowAnonLogging": false,
 	  "contentVersion": "preview-1.0.0",
 	  "imageLinks": {
-		"smallThumbnail": "http://books.google.com/books/content?id=gUulMQEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
-		"thumbnail": "http://books.google.com/books/content?id=gUulMQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+		"smallThumbnail": "https://books.google.com/books/content?id=gUulMQEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+		"thumbnail": "https://books.google.com/books/content?id=gUulMQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
 	  },
 	  "language": "en",
-	  "previewLink": "http://books.google.de/books?id=gUulMQEACAAJ&dq=intitle:spring+framework&hl=&cd=125&source=gbs_api",
-	  "infoLink": "http://books.google.de/books?id=gUulMQEACAAJ&dq=intitle:spring+framework&hl=&source=gbs_api",
-	  "canonicalVolumeLink": "http://books.google.de/books/about/Spring_3_with_Hibernate_4_Project_for_Pr.html?hl=&id=gUulMQEACAAJ"
+	  "previewLink": "https://books.google.de/books?id=gUulMQEACAAJ&dq=intitle:spring+framework&hl=&cd=125&source=gbs_api",
+	  "infoLink": "https://books.google.de/books?id=gUulMQEACAAJ&dq=intitle:spring+framework&hl=&source=gbs_api",
+	  "canonicalVolumeLink": "https://books.google.de/books/about/Spring_3_with_Hibernate_4_Project_for_Pr.html?hl=&id=gUulMQEACAAJ"
 	},
 	"saleInfo": {
 	  "country": "DE",
@@ -5467,13 +5467,13 @@
 	  "allowAnonLogging": false,
 	  "contentVersion": "preview-1.0.0",
 	  "imageLinks": {
-		"smallThumbnail": "http://books.google.com/books/content?id=hDN-vgAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
-		"thumbnail": "http://books.google.com/books/content?id=hDN-vgAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+		"smallThumbnail": "https://books.google.com/books/content?id=hDN-vgAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+		"thumbnail": "https://books.google.com/books/content?id=hDN-vgAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
 	  },
 	  "language": "en",
-	  "previewLink": "http://books.google.de/books?id=hDN-vgAACAAJ&dq=intitle:spring+framework&hl=&cd=126&source=gbs_api",
-	  "infoLink": "http://books.google.de/books?id=hDN-vgAACAAJ&dq=intitle:spring+framework&hl=&source=gbs_api",
-	  "canonicalVolumeLink": "http://books.google.de/books/about/Spring_Is_Here.html?hl=&id=hDN-vgAACAAJ"
+	  "previewLink": "https://books.google.de/books?id=hDN-vgAACAAJ&dq=intitle:spring+framework&hl=&cd=126&source=gbs_api",
+	  "infoLink": "https://books.google.de/books?id=hDN-vgAACAAJ&dq=intitle:spring+framework&hl=&source=gbs_api",
+	  "canonicalVolumeLink": "https://books.google.de/books/about/Spring_Is_Here.html?hl=&id=hDN-vgAACAAJ"
 	},
 	"saleInfo": {
 	  "country": "DE",
@@ -5522,13 +5522,13 @@
 	  "allowAnonLogging": true,
 	  "contentVersion": "1.5.7.0.preview.2",
 	  "imageLinks": {
-		"smallThumbnail": "http://books.google.com/books/content?id=seN2Bqj7i3gC&printsec=frontcover&img=1&zoom=5&source=gbs_api",
-		"thumbnail": "http://books.google.com/books/content?id=seN2Bqj7i3gC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+		"smallThumbnail": "https://books.google.com/books/content?id=seN2Bqj7i3gC&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+		"thumbnail": "https://books.google.com/books/content?id=seN2Bqj7i3gC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
 	  },
 	  "language": "fr",
-	  "previewLink": "http://books.google.de/books?id=seN2Bqj7i3gC&dq=intitle:spring+framework&hl=&cd=127&source=gbs_api",
-	  "infoLink": "http://books.google.de/books?id=seN2Bqj7i3gC&dq=intitle:spring+framework&hl=&source=gbs_api",
-	  "canonicalVolumeLink": "http://books.google.de/books/about/Spring_par_la_pratique_Spring_2_5_et_3_0.html?hl=&id=seN2Bqj7i3gC"
+	  "previewLink": "https://books.google.de/books?id=seN2Bqj7i3gC&dq=intitle:spring+framework&hl=&cd=127&source=gbs_api",
+	  "infoLink": "https://books.google.de/books?id=seN2Bqj7i3gC&dq=intitle:spring+framework&hl=&source=gbs_api",
+	  "canonicalVolumeLink": "https://books.google.de/books/about/Spring_par_la_pratique_Spring_2_5_et_3_0.html?hl=&id=seN2Bqj7i3gC"
 	},
 	"saleInfo": {
 	  "country": "DE",
@@ -5573,13 +5573,13 @@
 	  "allowAnonLogging": false,
 	  "contentVersion": "preview-1.0.0",
 	  "imageLinks": {
-		"smallThumbnail": "http://books.google.com/books/content?id=5yMdNwAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
-		"thumbnail": "http://books.google.com/books/content?id=5yMdNwAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+		"smallThumbnail": "https://books.google.com/books/content?id=5yMdNwAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+		"thumbnail": "https://books.google.com/books/content?id=5yMdNwAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
 	  },
 	  "language": "ja",
-	  "previewLink": "http://books.google.de/books?id=5yMdNwAACAAJ&dq=intitle:spring+framework&hl=&cd=128&source=gbs_api",
-	  "infoLink": "http://books.google.de/books?id=5yMdNwAACAAJ&dq=intitle:spring+framework&hl=&source=gbs_api",
-	  "canonicalVolumeLink": "http://books.google.de/books/about/Introduction_to_Spring_Framework_2_0.html?hl=&id=5yMdNwAACAAJ"
+	  "previewLink": "https://books.google.de/books?id=5yMdNwAACAAJ&dq=intitle:spring+framework&hl=&cd=128&source=gbs_api",
+	  "infoLink": "https://books.google.de/books?id=5yMdNwAACAAJ&dq=intitle:spring+framework&hl=&source=gbs_api",
+	  "canonicalVolumeLink": "https://books.google.de/books/about/Introduction_to_Spring_Framework_2_0.html?hl=&id=5yMdNwAACAAJ"
 	},
 	"saleInfo": {
 	  "country": "DE",
@@ -5623,13 +5623,13 @@
 	  "allowAnonLogging": false,
 	  "contentVersion": "preview-1.0.0",
 	  "imageLinks": {
-		"smallThumbnail": "http://books.google.com/books/content?id=bC_KPAAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
-		"thumbnail": "http://books.google.com/books/content?id=bC_KPAAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+		"smallThumbnail": "https://books.google.com/books/content?id=bC_KPAAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+		"thumbnail": "https://books.google.com/books/content?id=bC_KPAAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
 	  },
 	  "language": "ja",
-	  "previewLink": "http://books.google.de/books?id=bC_KPAAACAAJ&dq=intitle:spring+framework&hl=&cd=129&source=gbs_api",
-	  "infoLink": "http://books.google.de/books?id=bC_KPAAACAAJ&dq=intitle:spring+framework&hl=&source=gbs_api",
-	  "canonicalVolumeLink": "http://books.google.de/books/about/Jissen_Spring_Framework.html?hl=&id=bC_KPAAACAAJ"
+	  "previewLink": "https://books.google.de/books?id=bC_KPAAACAAJ&dq=intitle:spring+framework&hl=&cd=129&source=gbs_api",
+	  "infoLink": "https://books.google.de/books?id=bC_KPAAACAAJ&dq=intitle:spring+framework&hl=&source=gbs_api",
+	  "canonicalVolumeLink": "https://books.google.de/books/about/Jissen_Spring_Framework.html?hl=&id=bC_KPAAACAAJ"
 	},
 	"saleInfo": {
 	  "country": "DE",
@@ -5677,13 +5677,13 @@
 	  "allowAnonLogging": true,
 	  "contentVersion": "0.1.0.0.preview.0",
 	  "imageLinks": {
-		"smallThumbnail": "http://books.google.com/books/content?id=QQfi3hoInxkC&printsec=frontcover&img=1&zoom=5&source=gbs_api",
-		"thumbnail": "http://books.google.com/books/content?id=QQfi3hoInxkC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+		"smallThumbnail": "https://books.google.com/books/content?id=QQfi3hoInxkC&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+		"thumbnail": "https://books.google.com/books/content?id=QQfi3hoInxkC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
 	  },
 	  "language": "fr",
-	  "previewLink": "http://books.google.de/books?id=QQfi3hoInxkC&dq=intitle:spring+framework&hl=&cd=131&source=gbs_api",
-	  "infoLink": "http://books.google.de/books?id=QQfi3hoInxkC&dq=intitle:spring+framework&hl=&source=gbs_api",
-	  "canonicalVolumeLink": "http://books.google.de/books/about/Spring_par_la_pratique.html?hl=&id=QQfi3hoInxkC"
+	  "previewLink": "https://books.google.de/books?id=QQfi3hoInxkC&dq=intitle:spring+framework&hl=&cd=131&source=gbs_api",
+	  "infoLink": "https://books.google.de/books?id=QQfi3hoInxkC&dq=intitle:spring+framework&hl=&source=gbs_api",
+	  "canonicalVolumeLink": "https://books.google.de/books/about/Spring_par_la_pratique.html?hl=&id=QQfi3hoInxkC"
 	},
 	"saleInfo": {
 	  "country": "DE",
@@ -5724,13 +5724,13 @@
 	  "allowAnonLogging": false,
 	  "contentVersion": "preview-1.0.0",
 	  "imageLinks": {
-		"smallThumbnail": "http://books.google.com/books/content?id=y2RDvgAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
-		"thumbnail": "http://books.google.com/books/content?id=y2RDvgAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+		"smallThumbnail": "https://books.google.com/books/content?id=y2RDvgAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+		"thumbnail": "https://books.google.com/books/content?id=y2RDvgAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
 	  },
 	  "language": "en",
-	  "previewLink": "http://books.google.de/books?id=y2RDvgAACAAJ&dq=intitle:spring+framework&hl=&cd=132&source=gbs_api",
-	  "infoLink": "http://books.google.de/books?id=y2RDvgAACAAJ&dq=intitle:spring+framework&hl=&source=gbs_api",
-	  "canonicalVolumeLink": "http://books.google.de/books/about/Spring_Boot_Cookbook_Second_Edition.html?hl=&id=y2RDvgAACAAJ"
+	  "previewLink": "https://books.google.de/books?id=y2RDvgAACAAJ&dq=intitle:spring+framework&hl=&cd=132&source=gbs_api",
+	  "infoLink": "https://books.google.de/books?id=y2RDvgAACAAJ&dq=intitle:spring+framework&hl=&source=gbs_api",
+	  "canonicalVolumeLink": "https://books.google.de/books/about/Spring_Boot_Cookbook_Second_Edition.html?hl=&id=y2RDvgAACAAJ"
 	},
 	"saleInfo": {
 	  "country": "DE",
@@ -5776,11 +5776,11 @@
 	  "allowAnonLogging": false,
 	  "contentVersion": "1.5.3.0.preview.3",
 	  "imageLinks": {
-		"smallThumbnail": "http://books.google.com/books/content?id=96EvCwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
-		"thumbnail": "http://books.google.com/books/content?id=96EvCwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+		"smallThumbnail": "https://books.google.com/books/content?id=96EvCwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+		"thumbnail": "https://books.google.com/books/content?id=96EvCwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
 	  },
 	  "language": "en",
-	  "previewLink": "http://books.google.de/books?id=96EvCwAAQBAJ&printsec=frontcover&dq=intitle:spring+framework&hl=&cd=137&source=gbs_api",
+	  "previewLink": "https://books.google.de/books?id=96EvCwAAQBAJ&printsec=frontcover&dq=intitle:spring+framework&hl=&cd=137&source=gbs_api",
 	  "infoLink": "https://play.google.com/store/books/details?id=96EvCwAAQBAJ&source=gbs_api",
 	  "canonicalVolumeLink": "https://market.android.com/details?id=book-96EvCwAAQBAJ"
 	},
@@ -5851,11 +5851,11 @@
 	  "allowAnonLogging": false,
 	  "contentVersion": "preview-1.0.0",
 	  "imageLinks": {
-		"smallThumbnail": "http://books.google.com/books/content?id=615FDQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
-		"thumbnail": "http://books.google.com/books/content?id=615FDQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+		"smallThumbnail": "https://books.google.com/books/content?id=615FDQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+		"thumbnail": "https://books.google.com/books/content?id=615FDQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
 	  },
 	  "language": "es",
-	  "previewLink": "http://books.google.de/books?id=615FDQAAQBAJ&printsec=frontcover&dq=intitle:spring+framework&hl=&cd=141&source=gbs_api",
+	  "previewLink": "https://books.google.de/books?id=615FDQAAQBAJ&printsec=frontcover&dq=intitle:spring+framework&hl=&cd=141&source=gbs_api",
 	  "infoLink": "https://play.google.com/store/books/details?id=615FDQAAQBAJ&source=gbs_api",
 	  "canonicalVolumeLink": "https://market.android.com/details?id=book-615FDQAAQBAJ"
 	},
@@ -5925,11 +5925,11 @@
 	  "allowAnonLogging": false,
 	  "contentVersion": "1.1.1.0.preview.3",
 	  "imageLinks": {
-		"smallThumbnail": "http://books.google.com/books/content?id=wjXhGFsEwXMC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
-		"thumbnail": "http://books.google.com/books/content?id=wjXhGFsEwXMC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+		"smallThumbnail": "https://books.google.com/books/content?id=wjXhGFsEwXMC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+		"thumbnail": "https://books.google.com/books/content?id=wjXhGFsEwXMC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
 	  },
 	  "language": "en",
-	  "previewLink": "http://books.google.de/books?id=wjXhGFsEwXMC&printsec=frontcover&dq=intitle:spring+framework&hl=&cd=142&source=gbs_api",
+	  "previewLink": "https://books.google.de/books?id=wjXhGFsEwXMC&printsec=frontcover&dq=intitle:spring+framework&hl=&cd=142&source=gbs_api",
 	  "infoLink": "https://play.google.com/store/books/details?id=wjXhGFsEwXMC&source=gbs_api",
 	  "canonicalVolumeLink": "https://market.android.com/details?id=book-wjXhGFsEwXMC"
 	},
@@ -5999,11 +5999,11 @@
 	  "allowAnonLogging": false,
 	  "contentVersion": "preview-1.0.0",
 	  "imageLinks": {
-		"smallThumbnail": "http://books.google.com/books/content?id=nm2CCwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
-		"thumbnail": "http://books.google.com/books/content?id=nm2CCwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+		"smallThumbnail": "https://books.google.com/books/content?id=nm2CCwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+		"thumbnail": "https://books.google.com/books/content?id=nm2CCwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
 	  },
 	  "language": "pt",
-	  "previewLink": "http://books.google.de/books?id=nm2CCwAAQBAJ&printsec=frontcover&dq=intitle:spring+framework&hl=&cd=144&source=gbs_api",
+	  "previewLink": "https://books.google.de/books?id=nm2CCwAAQBAJ&printsec=frontcover&dq=intitle:spring+framework&hl=&cd=144&source=gbs_api",
 	  "infoLink": "https://play.google.com/store/books/details?id=nm2CCwAAQBAJ&source=gbs_api",
 	  "canonicalVolumeLink": "https://market.android.com/details?id=book-nm2CCwAAQBAJ"
 	},
@@ -6073,11 +6073,11 @@
 	  "allowAnonLogging": false,
 	  "contentVersion": "1.1.1.0.preview.3",
 	  "imageLinks": {
-		"smallThumbnail": "http://books.google.com/books/content?id=5T2qCQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
-		"thumbnail": "http://books.google.com/books/content?id=5T2qCQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+		"smallThumbnail": "https://books.google.com/books/content?id=5T2qCQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+		"thumbnail": "https://books.google.com/books/content?id=5T2qCQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
 	  },
 	  "language": "en",
-	  "previewLink": "http://books.google.de/books?id=5T2qCQAAQBAJ&printsec=frontcover&dq=intitle:spring+framework&hl=&cd=146&source=gbs_api",
+	  "previewLink": "https://books.google.de/books?id=5T2qCQAAQBAJ&printsec=frontcover&dq=intitle:spring+framework&hl=&cd=146&source=gbs_api",
 	  "infoLink": "https://play.google.com/store/books/details?id=5T2qCQAAQBAJ&source=gbs_api",
 	  "canonicalVolumeLink": "https://market.android.com/details?id=book-5T2qCQAAQBAJ"
 	},
@@ -6148,13 +6148,13 @@
 	  "allowAnonLogging": false,
 	  "contentVersion": "preview-1.0.0",
 	  "imageLinks": {
-		"smallThumbnail": "http://books.google.com/books/content?id=_vkKnwEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
-		"thumbnail": "http://books.google.com/books/content?id=_vkKnwEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+		"smallThumbnail": "https://books.google.com/books/content?id=_vkKnwEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+		"thumbnail": "https://books.google.com/books/content?id=_vkKnwEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
 	  },
 	  "language": "en",
-	  "previewLink": "http://books.google.de/books?id=_vkKnwEACAAJ&dq=intitle:spring+framework&hl=&cd=149&source=gbs_api",
-	  "infoLink": "http://books.google.de/books?id=_vkKnwEACAAJ&dq=intitle:spring+framework&hl=&source=gbs_api",
-	  "canonicalVolumeLink": "http://books.google.de/books/about/Spring_Next_Generation.html?hl=&id=_vkKnwEACAAJ"
+	  "previewLink": "https://books.google.de/books?id=_vkKnwEACAAJ&dq=intitle:spring+framework&hl=&cd=149&source=gbs_api",
+	  "infoLink": "https://books.google.de/books?id=_vkKnwEACAAJ&dq=intitle:spring+framework&hl=&source=gbs_api",
+	  "canonicalVolumeLink": "https://books.google.de/books/about/Spring_Next_Generation.html?hl=&id=_vkKnwEACAAJ"
 	},
 	"saleInfo": {
 	  "country": "DE",
@@ -6200,13 +6200,13 @@
 	  "allowAnonLogging": false,
 	  "contentVersion": "preview-1.0.0",
 	  "imageLinks": {
-		"smallThumbnail": "http://books.google.com/books/content?id=vDyBZwEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
-		"thumbnail": "http://books.google.com/books/content?id=vDyBZwEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+		"smallThumbnail": "https://books.google.com/books/content?id=vDyBZwEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+		"thumbnail": "https://books.google.com/books/content?id=vDyBZwEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
 	  },
 	  "language": "en",
-	  "previewLink": "http://books.google.de/books?id=vDyBZwEACAAJ&dq=intitle:spring+framework&hl=&cd=177&source=gbs_api",
-	  "infoLink": "http://books.google.de/books?id=vDyBZwEACAAJ&dq=intitle:spring+framework&hl=&source=gbs_api",
-	  "canonicalVolumeLink": "http://books.google.de/books/about/Spring_Roo_in_Action.html?hl=&id=vDyBZwEACAAJ"
+	  "previewLink": "https://books.google.de/books?id=vDyBZwEACAAJ&dq=intitle:spring+framework&hl=&cd=177&source=gbs_api",
+	  "infoLink": "https://books.google.de/books?id=vDyBZwEACAAJ&dq=intitle:spring+framework&hl=&source=gbs_api",
+	  "canonicalVolumeLink": "https://books.google.de/books/about/Spring_Roo_in_Action.html?hl=&id=vDyBZwEACAAJ"
 	},
 	"saleInfo": {
 	  "country": "DE",

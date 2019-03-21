@@ -1,6 +1,6 @@
 == Spring Data REST + Spring Security
 
-This example shows how to secure a http://projects.spring.io/spring-data-rest[Spring Data REST] application in multiple ways with http://projects.spring.io/spring-security[Spring Security].
+This example shows how to secure a https://projects.spring.io/spring-data-rest[Spring Data REST] application in multiple ways with https://projects.spring.io/spring-security[Spring Security].
 
 === Defining the domain
 
@@ -74,7 +74,7 @@ public interface ItemRepository extends CrudRepository<Item, Long>  {
 
 This repository is simple in its functionality, but it has been marked up with Spring Security annotations (`@PreAuthorize`). The repository at the top level requires that the user have *ROLE_USER* before ANYTHING is granted.
 
-NOTE: These code examples use Spring Security's more modern http://docs.spring.io/spring-security/site/docs/current/reference/htmlsingle/#method-security-expressions[@PreAuthorize] annotations. But you can also use http://docs.spring.io/spring-security/site/docs/current/reference/htmlsingle/#enableglobalmethodsecurity[@Secured] or JSR-250's security annotations. (Be advised, that JSR-250 annotations do NOT work at the interface level.)
+NOTE: These code examples use Spring Security's more modern https://docs.spring.io/spring-security/site/docs/current/reference/htmlsingle/#method-security-expressions[@PreAuthorize] annotations. But you can also use https://docs.spring.io/spring-security/site/docs/current/reference/htmlsingle/#enableglobalmethodsecurity[@Secured] or JSR-250's security annotations. (Be advised, that JSR-250 annotations do NOT work at the interface level.)
 
 To fine tune security policies, `save(Item)` and `delete(Item)` are overrides of `CrudRepository`, allowing us to further restrict these operations to require *ROLE_ADMIN*.
 
@@ -207,7 +207,7 @@ Location: http://localhost:8080/employees/4
 Content-Length: 0
 ----
 +
-Finally you have managed to create a new entry as shown by the *Location* header. You can also read about these various http://docs.spring.io/spring-security/site/docs/current/reference/htmlsingle/#headers[security-based headers] that Spring Security adds by default and what extra protections they add.
+Finally you have managed to create a new entry as shown by the *Location* header. You can also read about these various https://docs.spring.io/spring-security/site/docs/current/reference/htmlsingle/#headers[security-based headers] that Spring Security adds by default and what extra protections they add.
 +
 . Now, try to fetch the list of items.
 +

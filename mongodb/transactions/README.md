@@ -15,7 +15,7 @@ be patient.
 ## Sync Transactions
 
 `MongoTransactionManager` is the gateway to the well known Spring transaction support. It lets applications use 
-[the managed transaction features of Spring](http://docs.spring.io/spring/docs/{springVersion}/spring-framework-reference/html/transaction.html).
+[the managed transaction features of Spring](https://docs.spring.io/spring/docs/{springVersion}/spring-framework-reference/html/transaction.html).
 The `MongoTransactionManager` binds a `ClientSession` to the thread. `MongoTemplate` detects the session and operates
 on these resources which are associated with the transaction accordingly. `MongoTemplate` can also participate in 
 other, ongoing transactions.

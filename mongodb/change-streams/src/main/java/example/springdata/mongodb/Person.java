@@ -24,7 +24,7 @@ import org.springframework.data.mongodb.core.mapping.Field;
 /**
  * The domain type of choice.
  * <p />
- * This time <a href="http://www.cbs.com/shows/star-trek-discovery/">Star Trek: Discovery</a> <br />
+ * This time <a href="https://www.cbs.com/shows/star-trek-discovery/">Star Trek: Discovery</a> <br />
  * <i>Just a trekkie - no relation to CBS in any way other than watching.</i>
  *
  * @author Christoph Strobl

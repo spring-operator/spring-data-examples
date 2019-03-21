@@ -2,7 +2,7 @@
 
 This project contains Redis 3 Cluster specific features of Spring Data Redis.
 
-To run the code in this sample a running cluster environment is required. Please refer to the  [redis cluster-tutorial](http://redis.io/topics/cluster-tutorial) for detailed information or check the Cluster Setup section below. 
+To run the code in this sample a running cluster environment is required. Please refer to the  [redis cluster-tutorial](https://redis.io/topics/cluster-tutorial) for detailed information or check the Cluster Setup section below. 
 
 ## Support for Cluster ##
 
